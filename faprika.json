@@ -1,0 +1,4592 @@
+[
+  {
+    "plan": {
+      "name": "Start"
+    },
+    "features": [
+      {
+        "name": "",
+        "included": false
+      },
+      {
+        "name": "Anında Sanal Pos",
+        "included": true
+      },
+      {
+        "name": "Kapıda / Havale Ödeme Sistemi",
+        "included": true
+      },
+      {
+        "name": "Kampanya / İndirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Seçili Markalar, Ürünler, Kategori, Etiket Vs. % X İndirim",
+        "included": true
+      },
+      {
+        "name": "X TL Üzeri Kargo Bedava",
+        "included": true
+      },
+      {
+        "name": "2. Üründe % X İndirim",
+        "included": true
+      },
+      {
+        "name": "1 Alana 1 Bedava",
+        "included": true
+      },
+      {
+        "name": "Haftanın Günlerine Göre İndirim",
+        "included": true
+      },
+      {
+        "name": "SSL Güvenlik Sertifikası",
+        "included": true
+      },
+      {
+        "name": "Mobil E-ticaret Sitesi",
+        "included": true
+      },
+      {
+        "name": "Responsive Tasarım",
+        "included": true
+      },
+      {
+        "name": "Tema Seçenekleri",
+        "included": true
+      },
+      {
+        "name": "Dijital Pazarlama Eklentileri",
+        "included": true
+      },
+      {
+        "name": "Canlı Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Hızlı Üyelik / Giriş Ekranı",
+        "included": true
+      },
+      {
+        "name": "Üyeliksiz Alışveriş",
+        "included": true
+      },
+      {
+        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
+        "included": true
+      },
+      {
+        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
+        "included": true
+      },
+      {
+        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
+        "included": true
+      },
+      {
+        "name": "Siparişlere Yönetici Notu Girebilme (Müşteri Görebilir)",
+        "included": true
+      },
+      {
+        "name": "Kargo Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Parapuan / Hediye Çeki",
+        "included": true
+      },
+      {
+        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
+        "included": true
+      },
+      {
+        "name": "Blog / İçerik Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant (Ek Seçenek) Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Yorum Yönetimi (Onaylı/Onaysız)",
+        "included": true
+      },
+      {
+        "name": "Ürün Puanlama Modülü",
+        "included": true
+      },
+      {
+        "name": "Stoksuz Satış Yapabilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+        "included": true
+      },
+      {
+        "name": "B2C Satış Modeli",
+        "included": true
+      },
+      {
+        "name": "Akıllı Ürün Arama / Filtreleme",
+        "included": false
+      },
+      {
+        "name": "Ürün Bağlantıları",
+        "included": false
+      },
+      {
+        "name": "Miktarın Altında Yöneticiye Bildir",
+        "included": false
+      },
+      {
+        "name": "Whatsapp Sipariş Modülü",
+        "included": false
+      },
+      {
+        "name": "Müşteri Destek Modülü",
+        "included": false
+      },
+      {
+        "name": "Stok Harekelerini Kaydetme",
+        "included": false
+      },
+      {
+        "name": "Kargo Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "E-Arşiv/E-Fatura",
+        "included": false
+      },
+      {
+        "name": "Fatura Yazdırma/Tasarlama",
+        "included": false
+      },
+      {
+        "name": "XML Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Sipariş Paket Doğrulama(Barkod)",
+        "included": false
+      },
+      {
+        "name": "Canlı Moda/Ürün Video Modülü",
+        "included": false
+      },
+      {
+        "name": "Muhasebe Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Excel ile Ürün Yükleme/Güncelleme",
+        "included": false
+      },
+      {
+        "name": "Üyeleri Excel’e Aktarma",
+        "included": false
+      },
+      {
+        "name": "Toplu Resim Yükleme",
+        "included": false
+      },
+      {
+        "name": "Sipariş Raporları",
+        "included": false
+      },
+      {
+        "name": "Gelince Haber Ver (Varyant Uyumlu)",
+        "included": false
+      },
+      {
+        "name": "Kombin/Seri Ürün Satış Modülü",
+        "included": false
+      },
+      {
+        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "included": false
+      },
+      {
+        "name": "Duyuru/Bildirim Modülü",
+        "included": false
+      },
+      {
+        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "included": false
+      },
+      {
+        "name": "Kullanıcı / Personel Yetkilendirme",
+        "included": false
+      },
+      {
+        "name": "URL Kayıtlatını Yönetme",
+        "included": false
+      },
+      {
+        "name": "Instashop / Facebook Store",
+        "included": false
+      },
+      {
+        "name": "Ürünü Favori / Karşılaştırma / Fiyat Takip Listesine Ekle",
+        "included": false
+      },
+      {
+        "name": "Kart Saklama Özelliği",
+        "included": false
+      },
+      {
+        "name": "Kapıda Ödeme Sipariş Onaylama",
+        "included": false
+      },
+      {
+        "name": "SMS Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "CSS / Script Yönetim Ekranı",
+        "included": false
+      },
+      {
+        "name": "Toplu İşlem Yönetebilme",
+        "included": false
+      },
+      {
+        "name": "Ürün Kopyalama/Hızlı Ürün Girme",
+        "included": false
+      },
+      {
+        "name": "Ürün Sıralama (Sürükle Bırak)",
+        "included": false
+      },
+      {
+        "name": "Ürün Arama Terimleri",
+        "included": false
+      }
+    ],
+    "dropdowns": [
+      {
+        "name": "Pazaryeri Entegrasyonları",
+        "options": [
+          {
+            "alt": "Trendyol",
+            "included": "X"
+          },
+          {
+            "alt": "Modanisa",
+            "included": "X"
+          },
+          {
+            "alt": "Hepsiburada",
+            "included": "X"
+          },
+          {
+            "alt": "ePttAVM",
+            "included": "X"
+          },
+          {
+            "alt": "Cimri",
+            "included": "X"
+          },
+          {
+            "alt": "Gittigidiyor Cadde",
+            "included": "X"
+          },
+          {
+            "alt": "Farmazon",
+            "included": "X"
+          },
+          {
+            "alt": "Sefamerve",
+            "included": "X"
+          },
+          {
+            "alt": "Çiçeksepeti",
+            "included": "X"
+          },
+          {
+            "alt": "Evidea",
+            "included": "X"
+          },
+          {
+            "alt": "Joom",
+            "included": "X"
+          },
+          {
+            "alt": "AliExpress",
+            "included": "X"
+          },
+          {
+            "alt": "Asos",
+            "included": "X"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Reverb",
+            "included": "X"
+          },
+          {
+            "alt": "ETSY Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Wildberries",
+            "included": "X"
+          },
+          {
+            "alt": "Alibaba",
+            "included": "X"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Ozsale",
+            "included": "X"
+          },
+          {
+            "alt": "Ceneo",
+            "included": "X"
+          },
+          {
+            "alt": "Tiu",
+            "included": "X"
+          },
+          {
+            "alt": "Kanui",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Kargo Entegrasyonları",
+        "options": [
+          {
+            "alt": "Aras Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "PTT Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Yurtiçi Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "ByExpress Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Aramex",
+            "included": "X"
+          },
+          {
+            "alt": "DHL",
+            "included": "X"
+          },
+          {
+            "alt": "TNT",
+            "included": "X"
+          },
+          {
+            "alt": "Gold Kurye",
+            "included": "X"
+          },
+          {
+            "alt": "Pozitif Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Kargoist",
+            "included": "X"
+          },
+          {
+            "alt": "Navlungo",
+            "included": "X"
+          },
+          {
+            "alt": "HepsiExpress",
+            "included": "X"
+          },
+          {
+            "alt": "Hapag-Lloyd",
+            "included": "X"
+          },
+          {
+            "alt": "Jetizz",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Ödeme Sistemleri",
+        "options": [
+          {
+            "alt": "Havale",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı",
+            "included": " ✔"
+          },
+          {
+            "alt": "Parapuan/Bakiye/Hediye Çeki",
+            "included": " ✔"
+          },
+          {
+            "alt": "iPara/Multinet/PayNet/BKM Express/Hepsipay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "MasterPass",
+            "included": "X"
+          },
+          {
+            "alt": "Giropay/EPS/Qiwi/Sofort/MyBank",
+            "included": "X"
+          },
+          {
+            "alt": "TrustPay/SafetyPay/Boleto/Elo/iDEAL",
+            "included": "X"
+          },
+          {
+            "alt": "WeChat Pay/Yandex Money/Kripto Para",
+            "included": "X"
+          },
+          {
+            "alt": "SingPost/eNETS/Dragonpay/Zimpler",
+            "included": "X"
+          },
+          {
+            "alt": "Krungsri Bank/Siam Commercial Bank",
+            "included": "X"
+          },
+          {
+            "alt": "Paytrek/Moka/Wirecard/Telr/Compay",
+            "included": "X"
+          },
+          {
+            "alt": "UnionPay/JCB/Discover/Diners Club/MIR",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Muhasebe/ERP Entegrasyonları",
+        "options": [
+          {
+            "alt": "NetKasam",
+            "included": "X"
+          },
+          {
+            "alt": "Mikro",
+            "included": "X"
+          },
+          {
+            "alt": "Paraşüt",
+            "included": "X"
+          },
+          {
+            "alt": "Microsoft Dynamics",
+            "included": "X"
+          },
+          {
+            "alt": "Oracle",
+            "included": "X"
+          },
+          {
+            "alt": "Akınsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Vega",
+            "included": "X"
+          },
+          {
+            "alt": "Datasoft",
+            "included": "X"
+          },
+          {
+            "alt": "ETA",
+            "included": "X"
+          },
+          {
+            "alt": "Dia",
+            "included": "X"
+          },
+          {
+            "alt": "Femsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Hitit",
+            "included": "X"
+          },
+          {
+            "alt": "Winka",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Kampanya/Dijital Pazarlama",
+        "options": [
+          {
+            "alt": "Kampanya Modülü(X/Y-Oran/Tutar-Ve/Veya-Dahil/Hariç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kampanya Kısıtlama Modülü(Sebep/Sonuç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Google Analytics/Adwords/Remarketing/Data Studio",
+            "included": " ✔"
+          },
+          {
+            "alt": "Facebook/Instagram/Whatsapp(Katalog/Pixel/Shop)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Onesignal Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hotjar Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Lazy Load/Gzip",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Canonical/H Etiket Yönetimi/Robots/Sitemap",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sayaç/Popup/Çarkıfelek Eklentileri Ekleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Revotas Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Euromesage Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Segmentify Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "RtbHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Admatic Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AnalyticaHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Raporlar",
+        "options": [
+          {
+            "alt": "Günlük/Haftalık/Aylık Özet",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kar/Zarar Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Model/Ürün Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Varyant Doluluk Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kategori Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Üyelik/Giriş Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Durumu/Ödeme Tipi Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Marka/Tedarikçi Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Masaüstü/Mobil Karşılaştırma",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "İnstagram/Facebook/Google Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Etiket Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Resimsiz/Açıklamasız Ürünler",
+            "included": " ✔"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Raporları",
+            "included": "X"
+          },
+          {
+            "alt": "Kat/Peron/Raf Raporu(Kalan/Doluluk)",
+            "included": "X"
+          },
+          {
+            "alt": "Çağrı Merkezi Durum Raporu",
+            "included": "X"
+          },
+          {
+            "alt": "Dropshipping Raporu",
+            "included": "X"
+          },
+          {
+            "alt": "Stüdyo/Fotoğraf Çekimi Raporu",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "E-İhracat",
+        "options": [
+          {
+            "alt": "Sınırsız Dil/Para Birimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ülke Fiyat Çarpan Sistemi(Ürün/Vergi)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vitrin/Banner Yükleme(Dil Seçenekli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Karşılama Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pazaryeri/Kargo/Ödeme/SMS/ERP",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Genel Özellikler",
+        "options": [
+          {
+            "alt": "Vitrin/Banner Yönetimi(Mobil/Tablet/Masaüstü)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Stok Hareketi Tutma(Giriş/Çıkış)",
+            "included": "X"
+          },
+          {
+            "alt": "Bölgesel Kargo Yönetimi(Ülke/Şehir/İlçe/Kullanıcı)",
+            "included": "X"
+          },
+          {
+            "alt": "Durum Otomasyonu (Sipariş/ERP/Kargo/E-Dönüşüm)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş XML/Excel Çıktısı Alma(Anlık)",
+            "included": "X"
+          },
+          {
+            "alt": "Duyuru/Bildirim Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Panel Gelişmiş Filtreler(Ürün/Sipariş)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
+            "included": "X"
+          },
+          {
+            "alt": "Sipariş Düzenleme(Fiyat/Ürün/Vergi/Adres)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
+            "included": "X"
+          },
+          {
+            "alt": "Ürün Sıralama(Sürükle Bırak)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Son Gezilenler/Benzer Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "İndirimli/Fırsat/Vitrin/Öne Çıkanlar Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yarım Kalan Sipariş İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayfa/Landing/Anket/Başvuru Sayfaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Yorum/Puan Sistemi(Onaylı/Onaysız)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "E-Mail Ayarları/Gönderim Kuyruğu İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Mesaj Şablonları(SMS/Push/E-Mail)",
+            "included": "X"
+          },
+          {
+            "alt": "Sosyal Medya Hesabı ile Üyelik/Giriş",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargo Nerede/Desi/Takip Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kullanıcı Grubu/Bayilik Ayarları",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Faprikatör",
+        "options": [
+          {
+            "alt": "Özel Tasarım",
+            "included": "X"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Dropshipping Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Tedarikçi Satış İzleme Ekranı/Ürün Takibi",
+            "included": "X"
+          },
+          {
+            "alt": "Personeller Arası İletişim Ekranı",
+            "included": "X"
+          },
+          {
+            "alt": "Paket/Koli Satış Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Üretim/Depo/Operasyon/Mal Kabul Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Paketleme Masası Tanımlama/İzleme",
+            "included": "X"
+          },
+          {
+            "alt": "Personel Performans/Prim/İzleme Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Robot Temsilci Arama/Karşılama",
+            "included": "X"
+          },
+          {
+            "alt": "Alış Faturası/Gider Pusulası İşleme",
+            "included": "X"
+          },
+          {
+            "alt": "Sezon/Dönem Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "İş Emri/Personel Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Çoklu Varyant Raf Yerleştirme Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Müşteri Ticket/Destek Sistemi",
+            "included": "X"
+          },
+          {
+            "alt": "Müşteri Şikayet Yönetimi",
+            "included": "X"
+          },
+          {
+            "alt": "Kod ile İade Sistemi(Dropshipping)",
+            "included": "X"
+          },
+          {
+            "alt": "Kargo Muhasebesi",
+            "included": "X"
+          },
+          {
+            "alt": "Santral Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Algoritmik Kara Liste",
+            "included": "X"
+          },
+          {
+            "alt": "Whatsapp API Sipariş/Görüşme(Kaydetme)",
+            "included": "X"
+          },
+          {
+            "alt": "Otomatik Reklam Yönetimi",
+            "included": "X"
+          },
+          {
+            "alt": "LB/HTML Cache/Özel Sunucu Hizmeti",
+            "included": "X"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plan": {
+      "name": "Master"
+    },
+    "features": [
+      {
+        "name": "",
+        "included": false
+      },
+      {
+        "name": "Anında Sanal Pos",
+        "included": true
+      },
+      {
+        "name": "Kapıda / Havale Ödeme Sistemi",
+        "included": true
+      },
+      {
+        "name": "Kampanya / İndirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Seçili Markalar, Ürünler, Kategori, Etiket Vs. % X İndirim",
+        "included": true
+      },
+      {
+        "name": "X TL Üzeri Kargo Bedava",
+        "included": true
+      },
+      {
+        "name": "2. Üründe % X İndirim",
+        "included": true
+      },
+      {
+        "name": "1 Alana 1 Bedava",
+        "included": true
+      },
+      {
+        "name": "Haftanın Günlerine Göre İndirim",
+        "included": true
+      },
+      {
+        "name": "SSL Güvenlik Sertifikası",
+        "included": true
+      },
+      {
+        "name": "Mobil E-ticaret Sitesi",
+        "included": true
+      },
+      {
+        "name": "Responsive Tasarım",
+        "included": true
+      },
+      {
+        "name": "Tema Seçenekleri",
+        "included": true
+      },
+      {
+        "name": "Dijital Pazarlama Eklentileri",
+        "included": true
+      },
+      {
+        "name": "Canlı Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Hızlı Üyelik / Giriş Ekranı",
+        "included": true
+      },
+      {
+        "name": "Üyeliksiz Alışveriş",
+        "included": true
+      },
+      {
+        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
+        "included": true
+      },
+      {
+        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
+        "included": true
+      },
+      {
+        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
+        "included": true
+      },
+      {
+        "name": "Siparişlere Yönetici Notu Girebilme (Müşteri Görebilir)",
+        "included": true
+      },
+      {
+        "name": "Kargo Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Parapuan / Hediye Çeki",
+        "included": true
+      },
+      {
+        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
+        "included": true
+      },
+      {
+        "name": "Blog / İçerik Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant (Ek Seçenek) Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Yorum Yönetimi (Onaylı/Onaysız)",
+        "included": true
+      },
+      {
+        "name": "Ürün Puanlama Modülü",
+        "included": true
+      },
+      {
+        "name": "Stoksuz Satış Yapabilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+        "included": true
+      },
+      {
+        "name": "B2C Satış Modeli",
+        "included": true
+      },
+      {
+        "name": "Akıllı Ürün Arama / Filtreleme",
+        "included": true
+      },
+      {
+        "name": "Ürün Bağlantıları",
+        "included": true
+      },
+      {
+        "name": "Miktarın Altında Yöneticiye Bildir",
+        "included": true
+      },
+      {
+        "name": "Whatsapp Sipariş Modülü",
+        "included": true
+      },
+      {
+        "name": "Müşteri Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Stok Harekelerini Kaydetme",
+        "included": true
+      },
+      {
+        "name": "Kargo Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "E-Arşiv/E-Fatura",
+        "included": false
+      },
+      {
+        "name": "Fatura Yazdırma/Tasarlama",
+        "included": false
+      },
+      {
+        "name": "XML Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Sipariş Paket Doğrulama(Barkod)",
+        "included": false
+      },
+      {
+        "name": "Canlı Moda/Ürün Video Modülü",
+        "included": false
+      },
+      {
+        "name": "Muhasebe Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Excel ile Ürün Yükleme/Güncelleme",
+        "included": false
+      },
+      {
+        "name": "Üyeleri Excel’e Aktarma",
+        "included": false
+      },
+      {
+        "name": "Toplu Resim Yükleme",
+        "included": false
+      },
+      {
+        "name": "Sipariş Raporları",
+        "included": false
+      },
+      {
+        "name": "Gelince Haber Ver (Varyant Uyumlu)",
+        "included": false
+      },
+      {
+        "name": "Kombin/Seri Ürün Satış Modülü",
+        "included": false
+      },
+      {
+        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "included": false
+      },
+      {
+        "name": "Duyuru/Bildirim Modülü",
+        "included": false
+      },
+      {
+        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "included": false
+      },
+      {
+        "name": "Kullanıcı / Personel Yetkilendirme",
+        "included": false
+      },
+      {
+        "name": "URL Kayıtlatını Yönetme",
+        "included": false
+      },
+      {
+        "name": "Instashop / Facebook Store",
+        "included": false
+      },
+      {
+        "name": "Ürünü Favori / Karşılaştırma / Fiyat Takip Listesine Ekle",
+        "included": false
+      },
+      {
+        "name": "Kart Saklama Özelliği",
+        "included": false
+      },
+      {
+        "name": "Kapıda Ödeme Sipariş Onaylama",
+        "included": false
+      },
+      {
+        "name": "SMS Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "CSS / Script Yönetim Ekranı",
+        "included": false
+      },
+      {
+        "name": "Toplu İşlem Yönetebilme",
+        "included": false
+      },
+      {
+        "name": "Ürün Kopyalama/Hızlı Ürün Girme",
+        "included": false
+      },
+      {
+        "name": "Ürün Sıralama (Sürükle Bırak)",
+        "included": false
+      },
+      {
+        "name": "Ürün Arama Terimleri",
+        "included": false
+      }
+    ],
+    "dropdowns": [
+      {
+        "name": "Pazaryeri Entegrasyonları",
+        "options": [
+          {
+            "alt": "Trendyol",
+            "included": "X"
+          },
+          {
+            "alt": "Modanisa",
+            "included": "X"
+          },
+          {
+            "alt": "Hepsiburada",
+            "included": "X"
+          },
+          {
+            "alt": "ePttAVM",
+            "included": "X"
+          },
+          {
+            "alt": "Cimri",
+            "included": "X"
+          },
+          {
+            "alt": "Gittigidiyor Cadde",
+            "included": "X"
+          },
+          {
+            "alt": "Farmazon",
+            "included": "X"
+          },
+          {
+            "alt": "Sefamerve",
+            "included": "X"
+          },
+          {
+            "alt": "Çiçeksepeti",
+            "included": "X"
+          },
+          {
+            "alt": "Evidea",
+            "included": "X"
+          },
+          {
+            "alt": "Joom",
+            "included": "X"
+          },
+          {
+            "alt": "AliExpress",
+            "included": "X"
+          },
+          {
+            "alt": "Asos",
+            "included": "X"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Reverb",
+            "included": "X"
+          },
+          {
+            "alt": "ETSY Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Wildberries",
+            "included": "X"
+          },
+          {
+            "alt": "Alibaba",
+            "included": "X"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Ozsale",
+            "included": "X"
+          },
+          {
+            "alt": "Ceneo",
+            "included": "X"
+          },
+          {
+            "alt": "Tiu",
+            "included": "X"
+          },
+          {
+            "alt": "Kanui",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Kargo Entegrasyonları",
+        "options": [
+          {
+            "alt": "Aras Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "PTT Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Yurtiçi Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ByExpress Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Aramex",
+            "included": "X"
+          },
+          {
+            "alt": "DHL",
+            "included": "X"
+          },
+          {
+            "alt": "TNT",
+            "included": "X"
+          },
+          {
+            "alt": "Gold Kurye",
+            "included": "X"
+          },
+          {
+            "alt": "Pozitif Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Kargoist",
+            "included": "X"
+          },
+          {
+            "alt": "Navlungo",
+            "included": "X"
+          },
+          {
+            "alt": "HepsiExpress",
+            "included": "X"
+          },
+          {
+            "alt": "Hapag-Lloyd",
+            "included": "X"
+          },
+          {
+            "alt": "Jetizz",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Ödeme Sistemleri",
+        "options": [
+          {
+            "alt": "Havale",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı",
+            "included": " ✔"
+          },
+          {
+            "alt": "Parapuan/Bakiye/Hediye Çeki",
+            "included": " ✔"
+          },
+          {
+            "alt": "iPara/Multinet/PayNet/BKM Express/Hepsipay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "MasterPass",
+            "included": "X"
+          },
+          {
+            "alt": "Giropay/EPS/Qiwi/Sofort/MyBank",
+            "included": "X"
+          },
+          {
+            "alt": "TrustPay/SafetyPay/Boleto/Elo/iDEAL",
+            "included": "X"
+          },
+          {
+            "alt": "WeChat Pay/Yandex Money/Kripto Para",
+            "included": "X"
+          },
+          {
+            "alt": "SingPost/eNETS/Dragonpay/Zimpler",
+            "included": "X"
+          },
+          {
+            "alt": "Krungsri Bank/Siam Commercial Bank",
+            "included": "X"
+          },
+          {
+            "alt": "Paytrek/Moka/Wirecard/Telr/Compay",
+            "included": "X"
+          },
+          {
+            "alt": "UnionPay/JCB/Discover/Diners Club/MIR",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Muhasebe/ERP Entegrasyonları",
+        "options": [
+          {
+            "alt": "NetKasam",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mikro",
+            "included": "X"
+          },
+          {
+            "alt": "Paraşüt",
+            "included": "X"
+          },
+          {
+            "alt": "Microsoft Dynamics",
+            "included": "X"
+          },
+          {
+            "alt": "Oracle",
+            "included": "X"
+          },
+          {
+            "alt": "Akınsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Vega",
+            "included": "X"
+          },
+          {
+            "alt": "Datasoft",
+            "included": "X"
+          },
+          {
+            "alt": "ETA",
+            "included": "X"
+          },
+          {
+            "alt": "Dia",
+            "included": "X"
+          },
+          {
+            "alt": "Femsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Hitit",
+            "included": "X"
+          },
+          {
+            "alt": "Winka",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Kampanya/Dijital Pazarlama",
+        "options": [
+          {
+            "alt": "Kampanya Modülü(X/Y-Oran/Tutar-Ve/Veya-Dahil/Hariç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kampanya Kısıtlama Modülü(Sebep/Sonuç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Google Analytics/Adwords/Remarketing/Data Studio",
+            "included": " ✔"
+          },
+          {
+            "alt": "Facebook/Instagram/Whatsapp(Katalog/Pixel/Shop)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Onesignal Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Hotjar Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Lazy Load/Gzip",
+            "included": " ✔"
+          },
+          {
+            "alt": "Canonical/H Etiket Yönetimi/Robots/Sitemap",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayaç/Popup/Çarkıfelek Eklentileri Ekleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Revotas Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Euromesage Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Segmentify Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "RtbHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Admatic Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AnalyticaHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Raporlar",
+        "options": [
+          {
+            "alt": "Günlük/Haftalık/Aylık Özet",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kar/Zarar Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Model/Ürün Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Varyant Doluluk Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kategori Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Üyelik/Giriş Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Durumu/Ödeme Tipi Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Marka/Tedarikçi Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Masaüstü/Mobil Karşılaştırma",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "İnstagram/Facebook/Google Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Etiket Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Resimsiz/Açıklamasız Ürünler",
+            "included": " ✔"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Raporları",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kat/Peron/Raf Raporu(Kalan/Doluluk)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çağrı Merkezi Durum Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Stüdyo/Fotoğraf Çekimi Raporu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "E-İhracat",
+        "options": [
+          {
+            "alt": "Sınırsız Dil/Para Birimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ülke Fiyat Çarpan Sistemi(Ürün/Vergi)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vitrin/Banner Yükleme(Dil Seçenekli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Karşılama Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pazaryeri/Kargo/Ödeme/SMS/ERP",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Genel Özellikler",
+        "options": [
+          {
+            "alt": "Vitrin/Banner Yönetimi(Mobil/Tablet/Masaüstü)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Stok Hareketi Tutma(Giriş/Çıkış)",
+            "included": "X"
+          },
+          {
+            "alt": "Bölgesel Kargo Yönetimi(Ülke/Şehir/İlçe/Kullanıcı)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Durum Otomasyonu (Sipariş/ERP/Kargo/E-Dönüşüm)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş XML/Excel Çıktısı Alma(Anlık)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Duyuru/Bildirim Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Panel Gelişmiş Filtreler(Ürün/Sipariş)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş Düzenleme(Fiyat/Ürün/Vergi/Adres)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ürün Sıralama(Sürükle Bırak)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Son Gezilenler/Benzer Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "İndirimli/Fırsat/Vitrin/Öne Çıkanlar Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yarım Kalan Sipariş İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayfa/Landing/Anket/Başvuru Sayfaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Yorum/Puan Sistemi(Onaylı/Onaysız)",
+            "included": " ✔"
+          },
+          {
+            "alt": "E-Mail Ayarları/Gönderim Kuyruğu İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mesaj Şablonları(SMS/Push/E-Mail)",
+            "included": "X"
+          },
+          {
+            "alt": "Sosyal Medya Hesabı ile Üyelik/Giriş",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargo Nerede/Desi/Takip Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kullanıcı Grubu/Bayilik Ayarları",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Faprikatör",
+        "options": [
+          {
+            "alt": "Özel Tasarım",
+            "included": "X"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Dropshipping Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Tedarikçi Satış İzleme Ekranı/Ürün Takibi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personeller Arası İletişim Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paket/Koli Satış Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Üretim/Depo/Operasyon/Mal Kabul Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paketleme Masası Tanımlama/İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personel Performans/Prim/İzleme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Robot Temsilci Arama/Karşılama",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Alış Faturası/Gider Pusulası İşleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sezon/Dönem Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "İş Emri/Personel Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çoklu Varyant Raf Yerleştirme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Ticket/Destek Sistemi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Şikayet Yönetimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kod ile İade Sistemi(Dropshipping)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargo Muhasebesi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Santral Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Algoritmik Kara Liste",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Whatsapp API Sipariş/Görüşme(Kaydetme)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Otomatik Reklam Yönetimi",
+            "included": "X"
+          },
+          {
+            "alt": "LB/HTML Cache/Özel Sunucu Hizmeti",
+            "included": "Opsiyonel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plan": {
+      "name": "Ultimate"
+    },
+    "features": [
+      {
+        "name": "",
+        "included": false
+      },
+      {
+        "name": "Anında Sanal Pos",
+        "included": true
+      },
+      {
+        "name": "Kapıda / Havale Ödeme Sistemi",
+        "included": true
+      },
+      {
+        "name": "Kampanya / İndirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Seçili Markalar, Ürünler, Kategori, Etiket Vs. % X İndirim",
+        "included": true
+      },
+      {
+        "name": "X TL Üzeri Kargo Bedava",
+        "included": true
+      },
+      {
+        "name": "2. Üründe % X İndirim",
+        "included": true
+      },
+      {
+        "name": "1 Alana 1 Bedava",
+        "included": true
+      },
+      {
+        "name": "Haftanın Günlerine Göre İndirim",
+        "included": true
+      },
+      {
+        "name": "SSL Güvenlik Sertifikası",
+        "included": true
+      },
+      {
+        "name": "Mobil E-ticaret Sitesi",
+        "included": true
+      },
+      {
+        "name": "Responsive Tasarım",
+        "included": true
+      },
+      {
+        "name": "Tema Seçenekleri",
+        "included": true
+      },
+      {
+        "name": "Dijital Pazarlama Eklentileri",
+        "included": true
+      },
+      {
+        "name": "Canlı Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Hızlı Üyelik / Giriş Ekranı",
+        "included": true
+      },
+      {
+        "name": "Üyeliksiz Alışveriş",
+        "included": true
+      },
+      {
+        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
+        "included": true
+      },
+      {
+        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
+        "included": true
+      },
+      {
+        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
+        "included": true
+      },
+      {
+        "name": "Siparişlere Yönetici Notu Girebilme (Müşteri Görebilir)",
+        "included": true
+      },
+      {
+        "name": "Kargo Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Parapuan / Hediye Çeki",
+        "included": true
+      },
+      {
+        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
+        "included": true
+      },
+      {
+        "name": "Blog / İçerik Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant (Ek Seçenek) Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Yorum Yönetimi (Onaylı/Onaysız)",
+        "included": true
+      },
+      {
+        "name": "Ürün Puanlama Modülü",
+        "included": true
+      },
+      {
+        "name": "Stoksuz Satış Yapabilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+        "included": true
+      },
+      {
+        "name": "B2C Satış Modeli",
+        "included": true
+      },
+      {
+        "name": "Akıllı Ürün Arama / Filtreleme",
+        "included": true
+      },
+      {
+        "name": "Ürün Bağlantıları",
+        "included": true
+      },
+      {
+        "name": "Miktarın Altında Yöneticiye Bildir",
+        "included": true
+      },
+      {
+        "name": "Whatsapp Sipariş Modülü",
+        "included": true
+      },
+      {
+        "name": "Müşteri Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Stok Harekelerini Kaydetme",
+        "included": true
+      },
+      {
+        "name": "Kargo Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "E-Arşiv/E-Fatura",
+        "included": true
+      },
+      {
+        "name": "Fatura Yazdırma/Tasarlama",
+        "included": true
+      },
+      {
+        "name": "XML Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Sipariş Paket Doğrulama(Barkod)",
+        "included": false
+      },
+      {
+        "name": "Canlı Moda/Ürün Video Modülü",
+        "included": false
+      },
+      {
+        "name": "Muhasebe Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Excel ile Ürün Yükleme/Güncelleme",
+        "included": true
+      },
+      {
+        "name": "Üyeleri Excel’e Aktarma",
+        "included": true
+      },
+      {
+        "name": "Toplu Resim Yükleme",
+        "included": true
+      },
+      {
+        "name": "Sipariş Raporları",
+        "included": true
+      },
+      {
+        "name": "Gelince Haber Ver (Varyant Uyumlu)",
+        "included": false
+      },
+      {
+        "name": "Kombin/Seri Ürün Satış Modülü",
+        "included": true
+      },
+      {
+        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "included": true
+      },
+      {
+        "name": "Duyuru/Bildirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "included": false
+      },
+      {
+        "name": "Kullanıcı / Personel Yetkilendirme",
+        "included": false
+      },
+      {
+        "name": "URL Kayıtlatını Yönetme",
+        "included": false
+      },
+      {
+        "name": "Instashop / Facebook Store",
+        "included": false
+      },
+      {
+        "name": "Ürünü Favori / Karşılaştırma / Fiyat Takip Listesine Ekle",
+        "included": false
+      },
+      {
+        "name": "Kart Saklama Özelliği",
+        "included": false
+      },
+      {
+        "name": "Kapıda Ödeme Sipariş Onaylama",
+        "included": false
+      },
+      {
+        "name": "SMS Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "CSS / Script Yönetim Ekranı",
+        "included": false
+      },
+      {
+        "name": "Toplu İşlem Yönetebilme",
+        "included": false
+      },
+      {
+        "name": "Ürün Kopyalama/Hızlı Ürün Girme",
+        "included": false
+      },
+      {
+        "name": "Ürün Sıralama (Sürükle Bırak)",
+        "included": false
+      },
+      {
+        "name": "Ürün Arama Terimleri",
+        "included": false
+      }
+    ],
+    "dropdowns": [
+      {
+        "name": "Pazaryeri Entegrasyonları",
+        "options": [
+          {
+            "alt": "Trendyol",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Modanisa",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hepsiburada",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ePttAVM",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Cimri",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Gittigidiyor Cadde",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Farmazon",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sefamerve",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çiçeksepeti",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Evidea",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Joom",
+            "included": "X"
+          },
+          {
+            "alt": "AliExpress",
+            "included": "X"
+          },
+          {
+            "alt": "Asos",
+            "included": "X"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Reverb",
+            "included": "X"
+          },
+          {
+            "alt": "ETSY Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Wildberries",
+            "included": "X"
+          },
+          {
+            "alt": "Alibaba",
+            "included": "X"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Ozsale",
+            "included": "X"
+          },
+          {
+            "alt": "Ceneo",
+            "included": "X"
+          },
+          {
+            "alt": "Tiu",
+            "included": "X"
+          },
+          {
+            "alt": "Kanui",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Kargo Entegrasyonları",
+        "options": [
+          {
+            "alt": "Aras Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "PTT Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yurtiçi Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "ByExpress Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "Aramex",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "DHL",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "TNT",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Gold Kurye",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pozitif Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargoist",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Navlungo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "HepsiExpress",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hapag-Lloyd",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Jetizz",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Ödeme Sistemleri",
+        "options": [
+          {
+            "alt": "Havale",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı",
+            "included": " ✔"
+          },
+          {
+            "alt": "Parapuan/Bakiye/Hediye Çeki",
+            "included": " ✔"
+          },
+          {
+            "alt": "iPara/Multinet/PayNet/BKM Express/Hepsipay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "MasterPass",
+            "included": "X"
+          },
+          {
+            "alt": "Giropay/EPS/Qiwi/Sofort/MyBank",
+            "included": "X"
+          },
+          {
+            "alt": "TrustPay/SafetyPay/Boleto/Elo/iDEAL",
+            "included": "X"
+          },
+          {
+            "alt": "WeChat Pay/Yandex Money/Kripto Para",
+            "included": "X"
+          },
+          {
+            "alt": "SingPost/eNETS/Dragonpay/Zimpler",
+            "included": "X"
+          },
+          {
+            "alt": "Krungsri Bank/Siam Commercial Bank",
+            "included": "X"
+          },
+          {
+            "alt": "Paytrek/Moka/Wirecard/Telr/Compay",
+            "included": "X"
+          },
+          {
+            "alt": "UnionPay/JCB/Discover/Diners Club/MIR",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Muhasebe/ERP Entegrasyonları",
+        "options": [
+          {
+            "alt": "NetKasam",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mikro",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paraşüt",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Microsoft Dynamics",
+            "included": "X"
+          },
+          {
+            "alt": "Oracle",
+            "included": "X"
+          },
+          {
+            "alt": "Akınsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Vega",
+            "included": "X"
+          },
+          {
+            "alt": "Datasoft",
+            "included": "X"
+          },
+          {
+            "alt": "ETA",
+            "included": "X"
+          },
+          {
+            "alt": "Dia",
+            "included": "X"
+          },
+          {
+            "alt": "Femsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Hitit",
+            "included": "X"
+          },
+          {
+            "alt": "Winka",
+            "included": "X"
+          }
+        ]
+      },
+      {
+        "name": "Kampanya/Dijital Pazarlama",
+        "options": [
+          {
+            "alt": "Kampanya Modülü(X/Y-Oran/Tutar-Ve/Veya-Dahil/Hariç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kampanya Kısıtlama Modülü(Sebep/Sonuç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Google Analytics/Adwords/Remarketing/Data Studio",
+            "included": " ✔"
+          },
+          {
+            "alt": "Facebook/Instagram/Whatsapp(Katalog/Pixel/Shop)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Onesignal Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Hotjar Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Lazy Load/Gzip",
+            "included": " ✔"
+          },
+          {
+            "alt": "Canonical/H Etiket Yönetimi/Robots/Sitemap",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayaç/Popup/Çarkıfelek Eklentileri Ekleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Revotas Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Euromesage Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Segmentify Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "RtbHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Admatic Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AnalyticaHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Raporlar",
+        "options": [
+          {
+            "alt": "Günlük/Haftalık/Aylık Özet",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kar/Zarar Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Model/Ürün Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Varyant Doluluk Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kategori Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Üyelik/Giriş Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Durumu/Ödeme Tipi Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Marka/Tedarikçi Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Masaüstü/Mobil Karşılaştırma",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "İnstagram/Facebook/Google Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Etiket Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Resimsiz/Açıklamasız Ürünler",
+            "included": " ✔"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Raporları",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kat/Peron/Raf Raporu(Kalan/Doluluk)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çağrı Merkezi Durum Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Stüdyo/Fotoğraf Çekimi Raporu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "E-İhracat",
+        "options": [
+          {
+            "alt": "Sınırsız Dil/Para Birimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ülke Fiyat Çarpan Sistemi(Ürün/Vergi)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vitrin/Banner Yükleme(Dil Seçenekli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Karşılama Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pazaryeri/Kargo/Ödeme/SMS/ERP",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Genel Özellikler",
+        "options": [
+          {
+            "alt": "Vitrin/Banner Yönetimi(Mobil/Tablet/Masaüstü)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Stok Hareketi Tutma(Giriş/Çıkış)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Bölgesel Kargo Yönetimi(Ülke/Şehir/İlçe/Kullanıcı)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Durum Otomasyonu (Sipariş/ERP/Kargo/E-Dönüşüm)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş XML/Excel Çıktısı Alma(Anlık)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Duyuru/Bildirim Modülü",
+            "included": " ✔"
+          },
+          {
+            "alt": "Panel Gelişmiş Filtreler(Ürün/Sipariş)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Düzenleme(Fiyat/Ürün/Vergi/Adres)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ürün Sıralama(Sürükle Bırak)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Son Gezilenler/Benzer Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "İndirimli/Fırsat/Vitrin/Öne Çıkanlar Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yarım Kalan Sipariş İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayfa/Landing/Anket/Başvuru Sayfaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Yorum/Puan Sistemi(Onaylı/Onaysız)",
+            "included": " ✔"
+          },
+          {
+            "alt": "E-Mail Ayarları/Gönderim Kuyruğu İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mesaj Şablonları(SMS/Push/E-Mail)",
+            "included": "X"
+          },
+          {
+            "alt": "Sosyal Medya Hesabı ile Üyelik/Giriş",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kargo Nerede/Desi/Takip Modülü",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kullanıcı Grubu/Bayilik Ayarları",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Faprikatör",
+        "options": [
+          {
+            "alt": "Özel Tasarım",
+            "included": "X"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Tedarikçi Satış İzleme Ekranı/Ürün Takibi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personeller Arası İletişim Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paket/Koli Satış Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Üretim/Depo/Operasyon/Mal Kabul Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paketleme Masası Tanımlama/İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personel Performans/Prim/İzleme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Robot Temsilci Arama/Karşılama",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Alış Faturası/Gider Pusulası İşleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sezon/Dönem Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "İş Emri/Personel Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çoklu Varyant Raf Yerleştirme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Ticket/Destek Sistemi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Şikayet Yönetimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kod ile İade Sistemi(Dropshipping)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargo Muhasebesi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Santral Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Algoritmik Kara Liste",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Whatsapp API Sipariş/Görüşme(Kaydetme)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Otomatik Reklam Yönetimi",
+            "included": "X"
+          },
+          {
+            "alt": "LB/HTML Cache/Özel Sunucu Hizmeti",
+            "included": "Opsiyonel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plan": {
+      "name": "Special"
+    },
+    "features": [
+      {
+        "name": "",
+        "included": false
+      },
+      {
+        "name": "Anında Sanal Pos",
+        "included": true
+      },
+      {
+        "name": "Kapıda / Havale Ödeme Sistemi",
+        "included": true
+      },
+      {
+        "name": "Kampanya / İndirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Seçili Markalar, Ürünler, Kategori, Etiket Vs. % X İndirim",
+        "included": true
+      },
+      {
+        "name": "X TL Üzeri Kargo Bedava",
+        "included": true
+      },
+      {
+        "name": "2. Üründe % X İndirim",
+        "included": true
+      },
+      {
+        "name": "1 Alana 1 Bedava",
+        "included": true
+      },
+      {
+        "name": "Haftanın Günlerine Göre İndirim",
+        "included": true
+      },
+      {
+        "name": "SSL Güvenlik Sertifikası",
+        "included": true
+      },
+      {
+        "name": "Mobil E-ticaret Sitesi",
+        "included": true
+      },
+      {
+        "name": "Responsive Tasarım",
+        "included": true
+      },
+      {
+        "name": "Tema Seçenekleri",
+        "included": true
+      },
+      {
+        "name": "Dijital Pazarlama Eklentileri",
+        "included": true
+      },
+      {
+        "name": "Canlı Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Hızlı Üyelik / Giriş Ekranı",
+        "included": true
+      },
+      {
+        "name": "Üyeliksiz Alışveriş",
+        "included": true
+      },
+      {
+        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
+        "included": true
+      },
+      {
+        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
+        "included": true
+      },
+      {
+        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
+        "included": true
+      },
+      {
+        "name": "Siparişlere Yönetici Notu Girebilme (Müşteri Görebilir)",
+        "included": true
+      },
+      {
+        "name": "Kargo Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Parapuan / Hediye Çeki",
+        "included": true
+      },
+      {
+        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
+        "included": true
+      },
+      {
+        "name": "Blog / İçerik Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant (Ek Seçenek) Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Yorum Yönetimi (Onaylı/Onaysız)",
+        "included": true
+      },
+      {
+        "name": "Ürün Puanlama Modülü",
+        "included": true
+      },
+      {
+        "name": "Stoksuz Satış Yapabilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+        "included": true
+      },
+      {
+        "name": "B2C Satış Modeli",
+        "included": true
+      },
+      {
+        "name": "Akıllı Ürün Arama / Filtreleme",
+        "included": true
+      },
+      {
+        "name": "Ürün Bağlantıları",
+        "included": true
+      },
+      {
+        "name": "Miktarın Altında Yöneticiye Bildir",
+        "included": true
+      },
+      {
+        "name": "Whatsapp Sipariş Modülü",
+        "included": true
+      },
+      {
+        "name": "Müşteri Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Stok Harekelerini Kaydetme",
+        "included": true
+      },
+      {
+        "name": "Kargo Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "E-Arşiv/E-Fatura",
+        "included": true
+      },
+      {
+        "name": "Fatura Yazdırma/Tasarlama",
+        "included": true
+      },
+      {
+        "name": "XML Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Sipariş Paket Doğrulama(Barkod)",
+        "included": false
+      },
+      {
+        "name": "Canlı Moda/Ürün Video Modülü",
+        "included": false
+      },
+      {
+        "name": "Muhasebe Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Excel ile Ürün Yükleme/Güncelleme",
+        "included": true
+      },
+      {
+        "name": "Üyeleri Excel’e Aktarma",
+        "included": true
+      },
+      {
+        "name": "Toplu Resim Yükleme",
+        "included": true
+      },
+      {
+        "name": "Sipariş Raporları",
+        "included": true
+      },
+      {
+        "name": "Gelince Haber Ver (Varyant Uyumlu)",
+        "included": false
+      },
+      {
+        "name": "Kombin/Seri Ürün Satış Modülü",
+        "included": true
+      },
+      {
+        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "included": true
+      },
+      {
+        "name": "Duyuru/Bildirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "included": true
+      },
+      {
+        "name": "Kullanıcı / Personel Yetkilendirme",
+        "included": true
+      },
+      {
+        "name": "URL Kayıtlatını Yönetme",
+        "included": true
+      },
+      {
+        "name": "Instashop / Facebook Store",
+        "included": true
+      },
+      {
+        "name": "Ürünü Favori / Karşılaştırma / Fiyat Takip Listesine Ekle",
+        "included": true
+      },
+      {
+        "name": "Kart Saklama Özelliği",
+        "included": true
+      },
+      {
+        "name": "Kapıda Ödeme Sipariş Onaylama",
+        "included": true
+      },
+      {
+        "name": "SMS Entegrasyonu",
+        "included": true
+      },
+      {
+        "name": "CSS / Script Yönetim Ekranı",
+        "included": true
+      },
+      {
+        "name": "Toplu İşlem Yönetebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Kopyalama/Hızlı Ürün Girme",
+        "included": true
+      },
+      {
+        "name": "Ürün Sıralama (Sürükle Bırak)",
+        "included": true
+      },
+      {
+        "name": "Ürün Arama Terimleri",
+        "included": true
+      }
+    ],
+    "dropdowns": [
+      {
+        "name": "Pazaryeri Entegrasyonları",
+        "options": [
+          {
+            "alt": "Trendyol",
+            "included": " ✔"
+          },
+          {
+            "alt": "Modanisa",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hepsiburada",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ePttAVM",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Cimri",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gittigidiyor Cadde",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Farmazon",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sefamerve",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çiçeksepeti",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Evidea",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Joom",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AliExpress",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Asos",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Reverb",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ETSY Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Wildberries",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Alibaba",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ozsale",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ceneo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Tiu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kanui",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Kargo Entegrasyonları",
+        "options": [
+          {
+            "alt": "Aras Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "PTT Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yurtiçi Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "ByExpress Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "Aramex",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "DHL",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "TNT",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Gold Kurye",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pozitif Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargoist",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Navlungo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "HepsiExpress",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hapag-Lloyd",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Jetizz",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Ödeme Sistemleri",
+        "options": [
+          {
+            "alt": "Havale",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı",
+            "included": " ✔"
+          },
+          {
+            "alt": "Parapuan/Bakiye/Hediye Çeki",
+            "included": " ✔"
+          },
+          {
+            "alt": "iPara/Multinet/PayNet/BKM Express/Hepsipay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "MasterPass",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Giropay/EPS/Qiwi/Sofort/MyBank",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "TrustPay/SafetyPay/Boleto/Elo/iDEAL",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "WeChat Pay/Yandex Money/Kripto Para",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "SingPost/eNETS/Dragonpay/Zimpler",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Krungsri Bank/Siam Commercial Bank",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paytrek/Moka/Wirecard/Telr/Compay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "UnionPay/JCB/Discover/Diners Club/MIR",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Muhasebe/ERP Entegrasyonları",
+        "options": [
+          {
+            "alt": "NetKasam",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mikro",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paraşüt",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Microsoft Dynamics",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Oracle",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Akınsoft",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vega",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Datasoft",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ETA",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dia",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Femsoft",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hitit",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Winka",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Kampanya/Dijital Pazarlama",
+        "options": [
+          {
+            "alt": "Kampanya Modülü(X/Y-Oran/Tutar-Ve/Veya-Dahil/Hariç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kampanya Kısıtlama Modülü(Sebep/Sonuç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Google Analytics/Adwords/Remarketing/Data Studio",
+            "included": " ✔"
+          },
+          {
+            "alt": "Facebook/Instagram/Whatsapp(Katalog/Pixel/Shop)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Onesignal Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Hotjar Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Lazy Load/Gzip",
+            "included": " ✔"
+          },
+          {
+            "alt": "Canonical/H Etiket Yönetimi/Robots/Sitemap",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayaç/Popup/Çarkıfelek Eklentileri Ekleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Revotas Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Euromesage Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Segmentify Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "RtbHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Admatic Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AnalyticaHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Raporlar",
+        "options": [
+          {
+            "alt": "Günlük/Haftalık/Aylık Özet",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kar/Zarar Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Model/Ürün Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Varyant Doluluk Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kategori Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Üyelik/Giriş Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Durumu/Ödeme Tipi Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Marka/Tedarikçi Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Masaüstü/Mobil Karşılaştırma",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "İnstagram/Facebook/Google Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Etiket Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Resimsiz/Açıklamasız Ürünler",
+            "included": " ✔"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Raporları",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kat/Peron/Raf Raporu(Kalan/Doluluk)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çağrı Merkezi Durum Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Stüdyo/Fotoğraf Çekimi Raporu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "E-İhracat",
+        "options": [
+          {
+            "alt": "Sınırsız Dil/Para Birimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ülke Fiyat Çarpan Sistemi(Ürün/Vergi)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vitrin/Banner Yükleme(Dil Seçenekli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Karşılama Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pazaryeri/Kargo/Ödeme/SMS/ERP",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Genel Özellikler",
+        "options": [
+          {
+            "alt": "Vitrin/Banner Yönetimi(Mobil/Tablet/Masaüstü)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Stok Hareketi Tutma(Giriş/Çıkış)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Bölgesel Kargo Yönetimi(Ülke/Şehir/İlçe/Kullanıcı)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Durum Otomasyonu (Sipariş/ERP/Kargo/E-Dönüşüm)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş XML/Excel Çıktısı Alma(Anlık)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Duyuru/Bildirim Modülü",
+            "included": " ✔"
+          },
+          {
+            "alt": "Panel Gelişmiş Filtreler(Ürün/Sipariş)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Düzenleme(Fiyat/Ürün/Vergi/Adres)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Sıralama(Sürükle Bırak)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Son Gezilenler/Benzer Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "İndirimli/Fırsat/Vitrin/Öne Çıkanlar Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yarım Kalan Sipariş İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayfa/Landing/Anket/Başvuru Sayfaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Yorum/Puan Sistemi(Onaylı/Onaysız)",
+            "included": " ✔"
+          },
+          {
+            "alt": "E-Mail Ayarları/Gönderim Kuyruğu İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mesaj Şablonları(SMS/Push/E-Mail)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sosyal Medya Hesabı ile Üyelik/Giriş",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kargo Nerede/Desi/Takip Modülü",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kullanıcı Grubu/Bayilik Ayarları",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Faprikatör",
+        "options": [
+          {
+            "alt": "Özel Tasarım",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Tedarikçi Satış İzleme Ekranı/Ürün Takibi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personeller Arası İletişim Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paket/Koli Satış Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Üretim/Depo/Operasyon/Mal Kabul Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paketleme Masası Tanımlama/İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personel Performans/Prim/İzleme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Robot Temsilci Arama/Karşılama",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Alış Faturası/Gider Pusulası İşleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sezon/Dönem Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "İş Emri/Personel Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çoklu Varyant Raf Yerleştirme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Ticket/Destek Sistemi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Şikayet Yönetimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kod ile İade Sistemi(Dropshipping)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargo Muhasebesi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Santral Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Algoritmik Kara Liste",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Whatsapp API Sipariş/Görüşme(Kaydetme)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Otomatik Reklam Yönetimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "LB/HTML Cache/Özel Sunucu Hizmeti",
+            "included": "Opsiyonel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "plan": {
+      "name": "Elite"
+    },
+    "features": [
+      {
+        "name": "",
+        "included": false
+      },
+      {
+        "name": "Anında Sanal Pos",
+        "included": true
+      },
+      {
+        "name": "Kapıda / Havale Ödeme Sistemi",
+        "included": true
+      },
+      {
+        "name": "Kampanya / İndirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Seçili Markalar, Ürünler, Kategori, Etiket Vs. % X İndirim",
+        "included": true
+      },
+      {
+        "name": "X TL Üzeri Kargo Bedava",
+        "included": true
+      },
+      {
+        "name": "2. Üründe % X İndirim",
+        "included": true
+      },
+      {
+        "name": "1 Alana 1 Bedava",
+        "included": true
+      },
+      {
+        "name": "Haftanın Günlerine Göre İndirim",
+        "included": true
+      },
+      {
+        "name": "SSL Güvenlik Sertifikası",
+        "included": true
+      },
+      {
+        "name": "Mobil E-ticaret Sitesi",
+        "included": true
+      },
+      {
+        "name": "Responsive Tasarım",
+        "included": true
+      },
+      {
+        "name": "Tema Seçenekleri",
+        "included": true
+      },
+      {
+        "name": "Dijital Pazarlama Eklentileri",
+        "included": true
+      },
+      {
+        "name": "Canlı Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Hızlı Üyelik / Giriş Ekranı",
+        "included": true
+      },
+      {
+        "name": "Üyeliksiz Alışveriş",
+        "included": true
+      },
+      {
+        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
+        "included": true
+      },
+      {
+        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
+        "included": true
+      },
+      {
+        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
+        "included": true
+      },
+      {
+        "name": "Siparişlere Yönetici Notu Girebilme (Müşteri Görebilir)",
+        "included": true
+      },
+      {
+        "name": "Kargo Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Parapuan / Hediye Çeki",
+        "included": true
+      },
+      {
+        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
+        "included": true
+      },
+      {
+        "name": "Blog / İçerik Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant (Ek Seçenek) Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
+        "included": true
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Yorum Yönetimi (Onaylı/Onaysız)",
+        "included": true
+      },
+      {
+        "name": "Ürün Puanlama Modülü",
+        "included": true
+      },
+      {
+        "name": "Stoksuz Satış Yapabilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+        "included": true
+      },
+      {
+        "name": "B2C Satış Modeli",
+        "included": true
+      },
+      {
+        "name": "Akıllı Ürün Arama / Filtreleme",
+        "included": true
+      },
+      {
+        "name": "Ürün Bağlantıları",
+        "included": true
+      },
+      {
+        "name": "Miktarın Altında Yöneticiye Bildir",
+        "included": true
+      },
+      {
+        "name": "Whatsapp Sipariş Modülü",
+        "included": true
+      },
+      {
+        "name": "Müşteri Destek Modülü",
+        "included": true
+      },
+      {
+        "name": "Stok Harekelerini Kaydetme",
+        "included": true
+      },
+      {
+        "name": "Kargo Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "E-Arşiv/E-Fatura",
+        "included": true
+      },
+      {
+        "name": "Fatura Yazdırma/Tasarlama",
+        "included": true
+      },
+      {
+        "name": "XML Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Sipariş Paket Doğrulama(Barkod)",
+        "included": false
+      },
+      {
+        "name": "Canlı Moda/Ürün Video Modülü",
+        "included": false
+      },
+      {
+        "name": "Muhasebe Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "Excel ile Ürün Yükleme/Güncelleme",
+        "included": true
+      },
+      {
+        "name": "Üyeleri Excel’e Aktarma",
+        "included": true
+      },
+      {
+        "name": "Toplu Resim Yükleme",
+        "included": true
+      },
+      {
+        "name": "Sipariş Raporları",
+        "included": true
+      },
+      {
+        "name": "Gelince Haber Ver (Varyant Uyumlu)",
+        "included": false
+      },
+      {
+        "name": "Kombin/Seri Ürün Satış Modülü",
+        "included": true
+      },
+      {
+        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "included": true
+      },
+      {
+        "name": "Duyuru/Bildirim Modülü",
+        "included": true
+      },
+      {
+        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "included": true
+      },
+      {
+        "name": "Kullanıcı / Personel Yetkilendirme",
+        "included": true
+      },
+      {
+        "name": "URL Kayıtlatını Yönetme",
+        "included": true
+      },
+      {
+        "name": "Instashop / Facebook Store",
+        "included": true
+      },
+      {
+        "name": "Ürünü Favori / Karşılaştırma / Fiyat Takip Listesine Ekle",
+        "included": true
+      },
+      {
+        "name": "Kart Saklama Özelliği",
+        "included": true
+      },
+      {
+        "name": "Kapıda Ödeme Sipariş Onaylama",
+        "included": true
+      },
+      {
+        "name": "SMS Entegrasyonu",
+        "included": true
+      },
+      {
+        "name": "CSS / Script Yönetim Ekranı",
+        "included": true
+      },
+      {
+        "name": "Toplu İşlem Yönetebilme",
+        "included": true
+      },
+      {
+        "name": "Ürün Kopyalama/Hızlı Ürün Girme",
+        "included": true
+      },
+      {
+        "name": "Ürün Sıralama (Sürükle Bırak)",
+        "included": true
+      },
+      {
+        "name": "Ürün Arama Terimleri",
+        "included": true
+      }
+    ],
+    "dropdowns": [
+      {
+        "name": "Pazaryeri Entegrasyonları",
+        "options": [
+          {
+            "alt": "Trendyol",
+            "included": " ✔"
+          },
+          {
+            "alt": "Modanisa",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hepsiburada",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ePttAVM",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Cimri",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gittigidiyor Cadde",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Farmazon",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sefamerve",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çiçeksepeti",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Evidea",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Joom",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AliExpress",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Asos",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Reverb",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ETSY Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Wildberries",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Alibaba",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Fruugo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ozsale",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ceneo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Tiu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kanui",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Kargo Entegrasyonları",
+        "options": [
+          {
+            "alt": "Aras Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "PTT Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yurtiçi Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "ByExpress Kargo",
+            "included": " ✔"
+          },
+          {
+            "alt": "Aramex",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "DHL",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "TNT",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Gold Kurye",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pozitif Kargo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargoist",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Navlungo",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "HepsiExpress",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hapag-Lloyd",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Jetizz",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Ödeme Sistemleri",
+        "options": [
+          {
+            "alt": "Havale",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı",
+            "included": " ✔"
+          },
+          {
+            "alt": "Parapuan/Bakiye/Hediye Çeki",
+            "included": " ✔"
+          },
+          {
+            "alt": "iPara/Multinet/PayNet/BKM Express/Hepsipay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "MasterPass",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Giropay/EPS/Qiwi/Sofort/MyBank",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "TrustPay/SafetyPay/Boleto/Elo/iDEAL",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "WeChat Pay/Yandex Money/Kripto Para",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "SingPost/eNETS/Dragonpay/Zimpler",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Krungsri Bank/Siam Commercial Bank",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paytrek/Moka/Wirecard/Telr/Compay",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "UnionPay/JCB/Discover/Diners Club/MIR",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Muhasebe/ERP Entegrasyonları",
+        "options": [
+          {
+            "alt": "NetKasam",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mikro",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paraşüt",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Microsoft Dynamics",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Oracle",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Akınsoft",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vega",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Datasoft",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "ETA",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dia",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Femsoft",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Hitit",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Winka",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Kampanya/Dijital Pazarlama",
+        "options": [
+          {
+            "alt": "Kampanya Modülü(X/Y-Oran/Tutar-Ve/Veya-Dahil/Hariç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kampanya Kısıtlama Modülü(Sebep/Sonuç)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Google Analytics/Adwords/Remarketing/Data Studio",
+            "included": " ✔"
+          },
+          {
+            "alt": "Facebook/Instagram/Whatsapp(Katalog/Pixel/Shop)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Onesignal Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Hotjar Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Lazy Load/Gzip",
+            "included": " ✔"
+          },
+          {
+            "alt": "Canonical/H Etiket Yönetimi/Robots/Sitemap",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayaç/Popup/Çarkıfelek Eklentileri Ekleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Revotas Entegrasyonu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Euromesage Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Segmentify Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "RtbHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Admatic Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "AnalyticaHouse Entegrasyonu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Raporlar",
+        "options": [
+          {
+            "alt": "Günlük/Haftalık/Aylık Özet",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kar/Zarar Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Model/Ürün Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Varyant Doluluk Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kategori Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Üyelik/Giriş Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Durumu/Ödeme Tipi Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Marka/Tedarikçi Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Masaüstü/Mobil Karşılaştırma",
+            "included": " ✔"
+          },
+          {
+            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "İnstagram/Facebook/Google Satış Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Etiket Raporları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Resimsiz/Açıklamasız Ürünler",
+            "included": " ✔"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Raporları",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kat/Peron/Raf Raporu(Kalan/Doluluk)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çağrı Merkezi Durum Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Raporu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Stüdyo/Fotoğraf Çekimi Raporu",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "E-İhracat",
+        "options": [
+          {
+            "alt": "Sınırsız Dil/Para Birimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Ülke Fiyat Çarpan Sistemi(Ürün/Vergi)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Vitrin/Banner Yükleme(Dil Seçenekli)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Karşılama Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Pazaryeri/Kargo/Ödeme/SMS/ERP",
+            "included": "Opsiyonel"
+          }
+        ]
+      },
+      {
+        "name": "Genel Özellikler",
+        "options": [
+          {
+            "alt": "Vitrin/Banner Yönetimi(Mobil/Tablet/Masaüstü)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Stok Hareketi Tutma(Giriş/Çıkış)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Bölgesel Kargo Yönetimi(Ülke/Şehir/İlçe/Kullanıcı)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Durum Otomasyonu (Sipariş/ERP/Kargo/E-Dönüşüm)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sipariş XML/Excel Çıktısı Alma(Anlık)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Duyuru/Bildirim Modülü",
+            "included": " ✔"
+          },
+          {
+            "alt": "Panel Gelişmiş Filtreler(Ürün/Sipariş)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş Düzenleme(Fiyat/Ürün/Vergi/Adres)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Sıralama(Sürükle Bırak)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Son Gezilenler/Benzer Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "İndirimli/Fırsat/Vitrin/Öne Çıkanlar Ürün Ayarları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yarım Kalan Sipariş İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sayfa/Landing/Anket/Başvuru Sayfaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Yorum/Puan Sistemi(Onaylı/Onaysız)",
+            "included": " ✔"
+          },
+          {
+            "alt": "E-Mail Ayarları/Gönderim Kuyruğu İzleme",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mesaj Şablonları(SMS/Push/E-Mail)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sosyal Medya Hesabı ile Üyelik/Giriş",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kargo Nerede/Desi/Takip Modülü",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kullanıcı Grubu/Bayilik Ayarları",
+            "included": " ✔"
+          }
+        ]
+      },
+      {
+        "name": "Faprikatör",
+        "options": [
+          {
+            "alt": "Özel Tasarım",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dropshipping Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Tedarikçi Satış İzleme Ekranı/Ürün Takibi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personeller Arası İletişim Ekranı",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paket/Koli Satış Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Üretim/Depo/Operasyon/Mal Kabul Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Paketleme Masası Tanımlama/İzleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Personel Performans/Prim/İzleme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Robot Temsilci Arama/Karşılama",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Alış Faturası/Gider Pusulası İşleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sezon/Dönem Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "İş Emri/Personel Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Çoklu Varyant Raf Yerleştirme Modülü",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Ticket/Destek Sistemi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Müşteri Şikayet Yönetimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kod ile İade Sistemi(Dropshipping)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Kargo Muhasebesi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Santral Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Algoritmik Kara Liste",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Whatsapp API Sipariş/Görüşme(Kaydetme)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Otomatik Reklam Yönetimi",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "LB/HTML Cache/Özel Sunucu Hizmeti",
+            "included": "Opsiyonel"
+          }
+        ]
+      }
+    ]
+  }
+]
