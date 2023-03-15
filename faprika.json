@@ -476,7 +476,15 @@
             "included": "X"
           },
           {
+            "alt": "N11",
+            "included": "X"
+          },
+          {
             "alt": "Modanisa",
+            "included": "X"
+          },
+          {
+            "alt": "Morhipo",
             "included": "X"
           },
           {
@@ -484,7 +492,23 @@
             "included": "X"
           },
           {
+            "alt": "Flo",
+            "included": "X"
+          },
+          {
+            "alt": "Pazarama",
+            "included": "X"
+          },
+          {
+            "alt": "Gittigidiyor",
+            "included": "X"
+          },
+          {
             "alt": "ePttAVM",
+            "included": "X"
+          },
+          {
+            "alt": "Akakçe",
             "included": "X"
           },
           {
@@ -492,7 +516,15 @@
             "included": "X"
           },
           {
+            "alt": "N11 Pro",
+            "included": "X"
+          },
+          {
             "alt": "Gittigidiyor Cadde",
+            "included": "X"
+          },
+          {
+            "alt": "Amazon",
             "included": "X"
           },
           {
@@ -500,7 +532,15 @@
             "included": "X"
           },
           {
+            "alt": "Tozlu",
+            "included": "X"
+          },
+          {
             "alt": "Sefamerve",
+            "included": "X"
+          },
+          {
+            "alt": "Sahibinden",
             "included": "X"
           },
           {
@@ -508,7 +548,15 @@
             "included": "X"
           },
           {
+            "alt": "Glami",
+            "included": "X"
+          },
+          {
             "alt": "Evidea",
+            "included": "X"
+          },
+          {
+            "alt": "Lamoda",
             "included": "X"
           },
           {
@@ -516,7 +564,15 @@
             "included": "X"
           },
           {
+            "alt": "Alegro",
+            "included": "X"
+          },
+          {
             "alt": "AliExpress",
+            "included": "X"
+          },
+          {
+            "alt": "Zalando",
             "included": "X"
           },
           {
@@ -524,7 +580,15 @@
             "included": "X"
           },
           {
+            "alt": "Wayfair",
+            "included": "X"
+          },
+          {
             "alt": "Fruugo",
+            "included": "X"
+          },
+          {
+            "alt": "Zibbet",
             "included": "X"
           },
           {
@@ -532,7 +596,15 @@
             "included": "X"
           },
           {
+            "alt": "Newegg",
+            "included": "X"
+          },
+          {
             "alt": "ETSY Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Ebay",
             "included": "X"
           },
           {
@@ -540,7 +612,15 @@
             "included": "X"
           },
           {
+            "alt": "Yollando",
+            "included": "X"
+          },
+          {
             "alt": "Alibaba",
+            "included": "X"
+          },
+          {
+            "alt": "Knawat",
             "included": "X"
           },
           {
@@ -548,7 +628,15 @@
             "included": "X"
           },
           {
+            "alt": "Ozon",
+            "included": "X"
+          },
+          {
             "alt": "Ozsale",
+            "included": "X"
+          },
+          {
+            "alt": "Rozetka",
             "included": "X"
           },
           {
@@ -556,7 +644,15 @@
             "included": "X"
           },
           {
+            "alt": "Rakuten",
+            "included": "X"
+          },
+          {
             "alt": "Tiu",
+            "included": "X"
+          },
+          {
+            "alt": "UNIQLO",
             "included": "X"
           },
           {
@@ -573,7 +669,15 @@
             "included": "X"
           },
           {
+            "alt": "Sürat",
+            "included": "X"
+          },
+          {
             "alt": "PTT Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "MNG Kargo",
             "included": "X"
           },
           {
@@ -581,7 +685,51 @@
             "included": "X"
           },
           {
+            "alt": "UPS",
+            "included": "X"
+          },
+          {
             "alt": "ByExpress Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Asil Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Hepsijet Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "Kargoist",
+            "included": "X"
+          },
+          {
+            "alt": "Aksay Dağıtım",
+            "included": "X"
+          },
+          {
+            "alt": "Carrtell Dağıtım",
+            "included": "X"
+          },
+          {
+            "alt": "Faal Kargo",
+            "included": "X"
+          },
+          {
+            "alt": "kargola KArgo",
+            "included": "X"
+          },
+          {
+            "alt": "Kargo Nova",
+            "included": "X"
+          },
+          {
+            "alt": "My Ses Expres",
+            "included": "X"
+          },
+          {
+            "alt": "Ofis Kargo",
             "included": "X"
           },
           {
@@ -589,11 +737,23 @@
             "included": "X"
           },
           {
+            "alt": "PTS",
+            "included": "X"
+          },
+          {
             "alt": "DHL",
             "included": "X"
           },
           {
+            "alt": "Fedex",
+            "included": "X"
+          },
+          {
             "alt": "TNT",
+            "included": "X"
+          },
+          {
+            "alt": "PostTrans",
             "included": "X"
           },
           {
@@ -605,7 +765,7 @@
             "included": "X"
           },
           {
-            "alt": "Kargoist",
+            "alt": "kargo Türk",
             "included": "X"
           },
           {
@@ -613,7 +773,11 @@
             "included": "X"
           },
           {
-            "alt": "HepsiExpress",
+            "alt": "Dakik Teslimat",
+            "included": "X"
+          },
+          {
+            "alt": "Kas Global",
             "included": "X"
           },
           {
@@ -621,8 +785,12 @@
             "included": "X"
           },
           {
+            "alt": "B2C Direct",
+            "included": "X"
+          },
+          {
             "alt": "Jetizz",
-            "included": "Opsiyonel"
+            "included": "X"
           }
         ]
       },
@@ -634,48 +802,156 @@
             "included": " ✔"
           },
           {
+            "alt": "Kapıda Ödeme",
+            "included": " ✔"
+          },
+          {
             "alt": "Kredi Kartı",
             "included": " ✔"
           },
           {
-            "alt": "Parapuan/Bakiye/Hediye Çeki",
+            "alt": "Türkiye Bankaları Sanal Pos",
             "included": " ✔"
           },
           {
-            "alt": "iPara/Multinet/PayNet/BKM Express/Hepsipay",
-            "included": "Opsiyonel"
+            "alt": "Vakıf Bankası Sanal Pos (World)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kuveyt Türk Sanal Pos",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ziraat Bankası Sanal Pos (Maximum)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Garanti Bankası Sanal Pos (Bonus)",
+            "included": " ✔"
+          },
+          {
+            "alt": "İş Bankası Sanal Pos (Maximum)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Teb Sanal Pos (Bonus)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Finans Banksı Sanal Pos (Card Finans)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Yapıkredi Bankası Sanal Pos (World)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Parapuan / Bakiye / Hediye Çeki",
+            "included": " ✔"
+          },
+          {
+            "alt": "Paytr Sanal Pos",
+            "included": " ✔"
+          },
+          {
+            "alt": "İyzico Sanal Pos",
+            "included": " ✔"
+          },
+          {
+            "alt": "Paratica Sanal Pos",
+            "included": " ✔"
+          },
+          {
+            "alt": "Garanti Pay",
+            "included": " ✔"
+          },
+          {
+            "alt": "Mercan (FastPass)",
+            "included": " ✔"
+          },
+          {
+            "alt": "Moka Sanal Pos",
+            "included": " ✔"
+          },
+          {
+            "alt": "Si Pay",
+            "included": " ✔"
+          },
+          {
+            "alt": "Alternatif Ödeme Sistemleri",
+            "included": "X"
+          },
+           {
+            "alt": "Mollie Sanal Pos Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Bank İntesa",
+            "included": "X"
+          },
+          {
+            "alt": "Bank İntesa",
+            "included": "X"
+          },
+          {
+            "alt": "iPara / Multinet / PayNet / BKM Express / Hepsipay",
+            "included": "X"
+          },
+          {
+            "alt": "PayPal",
+            "included": "X"
           },
           {
             "alt": "MasterPass",
             "included": "X"
           },
           {
-            "alt": "Giropay/EPS/Qiwi/Sofort/MyBank",
+            "alt": "Apple Pay / Google Pay / Alipay / Worldpay",
             "included": "X"
           },
           {
-            "alt": "TrustPay/SafetyPay/Boleto/Elo/iDEAL",
+            "alt": "Giropay / EPS / Qiwi / Sofort / MyBank",
             "included": "X"
           },
           {
-            "alt": "WeChat Pay/Yandex Money/Kripto Para",
+            "alt": "Bancontact / Multibanco / Przelewy24",
             "included": "X"
           },
           {
-            "alt": "SingPost/eNETS/Dragonpay/Zimpler",
+            "alt": "TrustPay / SafetyPay / Boleto / Elo / iDEAL",
+            "included": "X"
+          },
+           {
+            "alt": "SEPA Direct Debit / Klarna / Sberbank Online",
             "included": "X"
           },
           {
-            "alt": "Krungsri Bank/Siam Commercial Bank",
+            "alt": "WeChat Pay / Yandex Money / Kripto Para",
             "included": "X"
           },
           {
-            "alt": "Paytrek/Moka/Wirecard/Telr/Compay",
+            "alt": "KNET / Trustly / POLi / Finnish Online Bank",
             "included": "X"
           },
           {
-            "alt": "UnionPay/JCB/Discover/Diners Club/MIR",
-            "included": " ✔"
+            "alt": "SingPost / eNETS / Dragonpay / Zimpler",
+            "included": "X"
+          },
+          {
+            "alt": "Bangkok Bank / Krung Thai Bank",
+            "included": "X"
+          },
+          {
+            "alt": "Krungsri Bank / Siam Commercial Bank",
+            "included": "X"
+          },
+          {
+            "alt": "Alfa-Click / Paycell / Paybyme / PayGuru",
+            "included": "X"
+          },
+          {
+            "alt": "Paytrek / Wirecard / Telr / Compay",
+            "included": "X"
           }
         ]
       },
@@ -687,7 +963,19 @@
             "included": "X"
           },
           {
+            "alt": "Nebim V3",
+            "included": "X"
+          },
+          {
+            "alt": "Netsis",
+            "included": "X"
+          },
+          {
             "alt": "Mikro",
+            "included": "X"
+          },
+          {
+            "alt": "Logo",
             "included": "X"
           },
           {
@@ -695,7 +983,15 @@
             "included": "X"
           },
           {
+            "alt": "SAP",
+            "included": "X"
+          },
+          {
             "alt": "Microsoft Dynamics",
+            "included": "X"
+          },
+          {
+            "alt": "OBASE Entegrasyonu",
             "included": "X"
           },
           {
@@ -703,7 +999,15 @@
             "included": "X"
           },
           {
+            "alt": "Korgün",
+            "included": "X"
+          },
+          {
             "alt": "Akınsoft",
+            "included": "X"
+          },
+          {
+            "alt": "Giz",
             "included": "X"
           },
           {
@@ -711,7 +1015,15 @@
             "included": "X"
           },
           {
+            "alt": "Zirve",
+            "included": "X"
+          },
+          {
             "alt": "Datasoft",
+            "included": "X"
+          },
+          {
+            "alt": "Orka",
             "included": "X"
           },
           {
@@ -719,7 +1031,15 @@
             "included": "X"
           },
           {
+            "alt": "Luca",
+            "included": "X"
+          },
+          {
             "alt": "Dia",
+            "included": "X"
+          },
+          {
+            "alt": "Erp 12",
             "included": "X"
           },
           {
@@ -727,7 +1047,15 @@
             "included": "X"
           },
           {
+            "alt": "NETO",
+            "included": "X"
+          },
+          {
             "alt": "Hitit",
+            "included": "X"
+          },
+          {
+            "alt": "Sentez",
             "included": "X"
           },
           {
@@ -737,22 +1065,96 @@
         ]
       },
       {
-        "name": "Kampanya/Dijital Pazarlama",
+        "name": "Kampanya Modülü (Örnek Kampanyalar)",
         "options": [
           {
-            "alt": "Kampanya Modülü(X/Y-Oran/Tutar-Ve/Veya-Dahil/Hariç)",
+            "alt": "Hediye Çeki Oluşturma",
             "included": " ✔"
           },
           {
-            "alt": "Kampanya Kısıtlama Modülü(Sebep/Sonuç)",
+            "alt": "Puan Sistemi",
             "included": " ✔"
           },
           {
-            "alt": "Google Analytics/Adwords/Remarketing/Data Studio",
+            "alt": "Hediye Çeki Kampanyaları",
             "included": " ✔"
           },
           {
-            "alt": "Facebook/Instagram/Whatsapp(Katalog/Pixel/Shop)",
+            "alt": "Ürün ya da Ürünlere Özel Kampanyalar",
+            "included": " ✔"
+          },
+          {
+            "alt": "Para Puan Kampanyaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Hediye Ürün Kampanyası",
+            "included": " ✔"
+          },
+          {
+            "alt": "X Al Y Öde Kampanyaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ödeme Tipine Göre Kampanyalar",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sepetten İndirim ",
+            "included": " ✔"
+          },
+          {
+            "alt": "Kargo Kampanyaları",
+            "included": " ✔"
+          },
+          {
+            "alt": "Saat bazlı Özel Kampanlar",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ay, Hafta, Gün Bazlı Özel Kampanyalar",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sepet Ara Toplamına Göre Kampanyalar",
+            "included": " ✔"
+          },
+          {
+            "alt": "Seçili Markalar, Ürünler, Kategori, Vs. % X İndirim",
+            "included": " ✔"
+          },
+          {
+            "alt": "X TL Üzeri Kargo Bedava",
+            "included": " ✔"
+          },
+          {
+            "alt": "2. Üründe % X İndirim",
+            "included": " ✔"
+          },
+          {
+            "alt": "1 Alana 1 Bedava",
+            "included": " ✔"
+          },
+          {
+            "alt": "Sepet Toplamına Göre Özel Kampanyalar",
+            "included": " ✔"
+          }
+        ]
+      },
+      
+      {
+        "name": "Dijital Pazarlama",
+        "options": [
+          {
+            "alt": "Google Tag Manager / Merchant Center / Search Console",
+            "included": " ✔"
+          },
+          {
+            "alt": "Facebook / Instagram / Whatsapp (Katalog / Pixel / Shop)",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Yandex Metrica Entegrasyonu",
             "included": "Opsiyonel"
           },
           {
@@ -760,19 +1162,35 @@
             "included": "Opsiyonel"
           },
           {
+            "alt": "Criteo Entegrasyonu",
+            "included": " ✔"
+          },
+          {
             "alt": "Hotjar Entegrasyonu",
             "included": "Opsiyonel"
           },
           {
-            "alt": "Lazy Load/Gzip",
+            "alt": "Zendesk Entegrasyonu",
             "included": "Opsiyonel"
           },
           {
-            "alt": "Canonical/H Etiket Yönetimi/Robots/Sitemap",
+            "alt": "Lazy Load / Gzip",
             "included": "Opsiyonel"
           },
           {
-            "alt": "Sayaç/Popup/Çarkıfelek Eklentileri Ekleme",
+            "alt": "Taxonomy / Rich Snippets / Breadcrumb ",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Canonical / H Etiket Yönetimi / Robots / Sitemap",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Sayaç / Popup / Çarkıfelek Eklentileri Ekleme",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Dönüşüm Takibi Engelleme (Kullanıcı Grubu)",
             "included": "Opsiyonel"
           },
           {
@@ -780,11 +1198,23 @@
             "included": "Opsiyonel"
           },
           {
+            "alt": "PersonaClick Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
             "alt": "Euromesage Entegrasyonu",
             "included": "Opsiyonel"
           },
           {
+            "alt": "Visilabs Entegrasyonu",
+            "included": " ✔"
+          },
+          {
             "alt": "Segmentify Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Insider Entegrasyonu",
             "included": "Opsiyonel"
           },
           {
@@ -792,7 +1222,15 @@
             "included": "Opsiyonel"
           },
           {
+            "alt": "Admitad Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
             "alt": "Admatic Entegrasyonu",
+            "included": "Opsiyonel"
+          },
+          {
+            "alt": "Picodi Entegrasyonu",
             "included": "Opsiyonel"
           },
           {
@@ -801,6 +1239,7 @@
           }
         ]
       },
+      
       {
         "name": "Raporlar",
         "options": [
@@ -809,7 +1248,15 @@
             "included": " ✔"
           },
           {
+            "alt": "Crio / Net Satış Raporu",
+            "included": " ✔"
+          },
+          {
             "alt": "Kar/Zarar Raporu",
+            "included": " ✔"
+          },
+          {
+            "alt": "Ürün Giriş / Çıkış Hareket Raporu",
             "included": " ✔"
           },
           {
@@ -817,7 +1264,15 @@
             "included": " ✔"
           },
           {
+            "alt": "Stok / Varyant/RPT Raporu",
+            "included": " ✔"
+          },
+          {
             "alt": "Varyant Doluluk Raporu",
+            "included": "X"
+          },
+          {
+            "alt": "Ürün Satış / Kalan Raporu",
             "included": " ✔"
           },
           {
@@ -825,7 +1280,14 @@
             "included": " ✔"
           },
           {
+            "alt": "Kargo Teslim / İade Raporları",
+            "included": "X"
+          },
+          {
             "alt": "Üyelik/Giriş Raporları",
+            "included": " ✔"
+          },
+            "alt": "Ürün Puan / Yorum Raporu",
             "included": " ✔"
           },
           {
@@ -833,31 +1295,63 @@
             "included": " ✔"
           },
           {
+            "alt": "Ülke / Şehir Satış Raporları",
+            "included": "X"
+          },
+          {
             "alt": "Marka/Tedarikçi Satış Raporu",
             "included": " ✔"
+          },
+          {
+            "alt": "ERP/E-Dönüşüm Raporları",
+            "included": "X"
           },
           {
             "alt": "Masaüstü/Mobil Karşılaştırma",
             "included": " ✔"
           },
           {
-            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "alt": "kampanya İndirim Raporu",
             "included": " ✔"
+          },
+          {
+            "alt": "Gelince Haber Ver/Favori/Fiyat Raporu",
+            "included": "X"
+          },
+          {
+            "alt": "WhatsApp / Telefon Satış Raporu",
+            "included": "X"
           },
           {
             "alt": "İnstagram/Facebook/Google Satış Raporu",
-            "included": " ✔"
+            "included": "X"
+          },
+          {
+            "alt": "SEO Raporları",
+            "included": "X"
           },
           {
             "alt": "Etiket Raporları",
-            "included": " ✔"
+            "included": "X"
+          },
+          {
+            "alt": "Site İçi Arama Raporları",
+            "included": "X"
           },
           {
             "alt": "Resimsiz/Açıklamasız Ürünler",
-            "included": " ✔"
+            "included": "X"
+          },
+          {
+            "alt": "Konsinye / Tedarikçi Satış Raporu",
+            "included": "X"
           },
           {
             "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Raporları",
+            "included": "X"
+          },
+          {
+            "alt": "Üretim / Depo / Operasyon / Mal Kabul Raporu",
             "included": "X"
           },
           {
@@ -865,7 +1359,15 @@
             "included": "X"
           },
           {
+            "alt": "İş Emri / Personel Durum Raporu",
+            "included": "X"
+          },
+          {
             "alt": "Çağrı Merkezi Durum Raporu",
+            "included": "X"
+          },
+          {
+            "alt": "Sipariş / Ürün Ayrıştırma/Toplama Raporu",
             "included": "X"
           },
           {
@@ -873,7 +1375,15 @@
             "included": "X"
           },
           {
+            "alt": "Sezon / Dönem Raporu",
+            "included": "X"
+          },
+          {
             "alt": "Stüdyo/Fotoğraf Çekimi Raporu",
+            "included": "X"
+          },
+          {
+            "alt": "Sayım Raporu",
             "included": "X"
           }
         ]
@@ -883,23 +1393,63 @@
         "options": [
           {
             "alt": "Sınırsız Dil/Para Birimi",
-            "included": "Opsiyonel"
+            "included": "X"
           },
           {
-            "alt": "Ülke Fiyat Çarpan Sistemi(Ürün/Vergi)",
-            "included": "Opsiyonel"
+            "alt": "TCMB Otomatik/Sabit Kur",
+            "included": "X"
           },
           {
-            "alt": "Vitrin/Banner Yükleme(Dil Seçenekli)",
-            "included": "Opsiyonel"
+            "alt": "Ülke Fiyat Çarpan Sistemi % & Tutar Cinsi (Ürün/Vergi)",
+            "included": "X"
+          },
+          {
+            "alt": "IP Ülke Algılama Teknolojisi",
+            "included": "X"
+          },
+          {
+            "alt": "Tarayıcı Ülke Algılama Teknolojisi",
+            "included": "X"
+          },
+          {
+            "alt": "Vitrin / Banner Yükleme(Dil Seçenekli)",
+            "included": "X"
+          },
+          {
+            "alt": "Script / Reklam Yönetimi(Dil Seçenekli)",
+            "included": "X"
           },
           {
             "alt": "Müşteri Karşılama Ekranı",
-            "included": "Opsiyonel"
+            "included": "X"
           },
           {
-            "alt": "Pazaryeri/Kargo/Ödeme/SMS/ERP",
-            "included": "Opsiyonel"
+            "alt": "Ülke Bazlı Kampanya / İndirim Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Pazaryeri / Kargo / Ödeme / SMS / ERP",
+            "included": "X"
+          },
+          {
+            "alt": "Channel Engine Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Genel Özellikler/Raporlar",
+            "included": "X"
+          },
+          {
+            "alt": "Yandex Ürün & Kategori Çeviri",
+            "included": "X"
+          },
+          {
+            "alt": "Mollie Almanya Sanal Pos",
+            "included": "X"
+          },
+          {
+            "alt": "Bölgesel Kargo Yönetimi Ülke",
+            "included": "X"
           }
         ]
       },
@@ -1020,7 +1570,15 @@
             "included": "X"
           },
           {
+            "alt": "Faprika Connect",
+            "included": "X"
+          },
+          {
             "alt": "Satış Ortaklığı(Satıcı/Komisyoncu) Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "API / Web Servisleri",
             "included": "X"
           },
           {
@@ -1028,7 +1586,15 @@
             "included": "X"
           },
           {
+            "alt": "Konsinye / Tedarikçi Modülü",
+            "included": "X"
+          },
+          {
             "alt": "Tedarikçi Satış İzleme Ekranı/Ürün Takibi",
+            "included": "X"
+          },
+          {
+            "alt": "Depo İade / Değişim Modülü",
             "included": "X"
           },
           {
@@ -1036,7 +1602,15 @@
             "included": "X"
           },
           {
+            "alt": "Sadık / VIP Müşteri Algılama",
+            "included": "X"
+          },
+          {
             "alt": "Paket/Koli Satış Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Fiziki Mağaza Stok/Sipariş Entegrasyonu",
             "included": "X"
           },
           {
@@ -1044,15 +1618,31 @@
             "included": "X"
           },
           {
+            "alt": "Depolar Arası Transfer / Sevk",
+            "included": "X"
+          },
+          {
             "alt": "Paketleme Masası Tanımlama/İzleme",
             "included": "X"
           },
           {
-            "alt": "Personel Performans/Prim/İzleme Modülü",
+            "alt": "Sipariş / Ürün Ayrıştırma / Toplama Modülü",
             "included": "X"
           },
           {
-            "alt": "Robot Temsilci Arama/Karşılama",
+            "alt": "Personel Performans / Prim / İzleme Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Google Cloud Printer / Uzak Yazıcı Tetikleme",
+            "included": "X"
+          },
+          {
+            "alt": "Robot Temsilci Arama / Karşılama",
+            "included": "X"
+          },
+          {
+            "alt": "Satış Hızına Göre RPT / Fiyat Robotu",
             "included": "X"
           },
           {
@@ -1060,11 +1650,23 @@
             "included": "X"
           },
           {
-            "alt": "Sezon/Dönem Modülü",
+            "alt": "Sayım Modülü",
             "included": "X"
           },
           {
-            "alt": "İş Emri/Personel Modülü",
+            "alt": "Sezon / Dönem Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Stok Devir Hızı / Stok Tutma",
+            "included": "X"
+          },
+          {
+            "alt": "İş Emri / Personel Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Kat / Peron / Raf Modülü",
             "included": "X"
           },
           {
@@ -1072,7 +1674,11 @@
             "included": "X"
           },
           {
-            "alt": "Müşteri Ticket/Destek Sistemi",
+            "alt": "Mağaza Satış Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Stüdyo / Fotoğraf Çekim Durum Modülü",
             "included": "X"
           },
           {
@@ -1080,7 +1686,15 @@
             "included": "X"
           },
           {
-            "alt": "Kod ile İade Sistemi(Dropshipping)",
+            "alt": "Toplu IBAN İade Dosyası",
+            "included": "X"
+          },
+          {
+            "alt": "Kod ile İade Sistemi (Dropshipping)",
+            "included": "X"
+          },
+          {
+            "alt": "Kargo Zimmet Modülü",
             "included": "X"
           },
           {
@@ -1088,7 +1702,15 @@
             "included": "X"
           },
           {
+            "alt": "Çağrı Merkezi Modülü",
+            "included": "X"
+          },
+          {
             "alt": "Santral Entegrasyonu",
+            "included": "X"
+          },
+          {
+            "alt": "Mutlu Müşteriler Modülü",
             "included": "X"
           },
           {
@@ -1096,7 +1718,15 @@
             "included": "X"
           },
           {
-            "alt": "Whatsapp API Sipariş/Görüşme(Kaydetme)",
+            "alt": "Algoritmik Ürün Listeme Modülü",
+            "included": "X"
+          },
+          {
+            "alt": "Whatsapp API Sipariş / Görüşme (Kaydetme)",
+            "included": "X"
+          },
+          {
+            "alt": "Kargo Sipariş Karşılaştırma/Mutabakat",
             "included": "X"
           },
           {
@@ -1104,9 +1734,14 @@
             "included": "X"
           },
           {
-            "alt": "LB/HTML Cache/Özel Sunucu Hizmeti",
+            "alt": "CRM",
+            "included": "X"
+          },
+          {
+            "alt": "LB / HTML Cache / Özel Sunucu Hizmeti",
             "included": "X"
           }
+          
         ]
       }
     ]
