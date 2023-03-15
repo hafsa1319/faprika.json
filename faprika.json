@@ -4,10 +4,7 @@
       "name": "Start"
     },
     "features": [
-      {
-        "name": "",
-        "included": false
-      },
+      
       {
         "name": "Kapıda / Havele Ödeme Sistemi",
         "included": true
