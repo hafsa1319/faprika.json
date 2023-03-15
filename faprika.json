@@ -9,19 +9,103 @@
         "included": false
       },
       {
-        "name": "Anında Sanal Pos",
+        "name": "Kapıda / Havele Ödeme Sistemi",
         "included": true
       },
       {
-        "name": "Kapıda / Havale Ödeme Sistemi",
+        "name": "SSL Güvenlik Sertifikası",
         "included": true
       },
       {
-        "name": "Kampanya / İndirim Modülü",
+        "name": "Mobil E-ticaret Sitesi",
         "included": true
       },
       {
-        "name": "Seçili Markalar, Ürünler, Kategori, Etiket Vs. % X İndirim",
+        "name": "Concept Tema Seçenekleri",
+        "included": true
+      },
+      {
+        "name": "Dijital Pazarlama Eklentileri",
+        "included": true
+      },
+      {
+        "name": "Kargo Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
+        "included": true
+      },
+      {
+        "name": "Üyeliksiz Alışveriş",
+        "included": true
+      },
+      {
+        "name": "Hızlı Üyelik / Giriş Ekranı",
+        "included": true
+      },
+      {
+        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
+        "included": true
+      },
+      {
+        "name": "Parapuan / Hediye Çeki",
+        "included": true
+      },
+      {
+        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
+        "included": true
+      },
+      {
+        "name": "Varyant (Ek Seçenek) Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Ürün Yorum & Puan Yönetimi (Onaylı / Onaysız)",
+        "included": true
+      },
+      {
+        "name": "Kampanya Yönetimi",
+        "included": true
+      },
+      {
+        "name": "Blog",
+        "included": true
+      },
+      {
+        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
+        "included": true
+      },
+      {
+        "name": "Panel Gelişmiş Filtreler (Ürün/Sipariş)",
+        "included": true
+      },
+      {
+        "name": "Mesaj Şablonları (E-Mail)",
+        "included": true
+      },
+      {
+        "name": "Sipariş Logları Modülü",
+        "included": true
+      },
+      {
+        "name": "Kargo Desi / Sabit Fiyat Ayarı",
+        "included": true
+      },
+      {
+        "name": "Anasayfa / Kategori Cache",
+        "included": true
+      },
+      {
+        "name": "B2C Satış Modeli",
+        "included": true
+      },
+      {
+        "name": "Akıllı Ürün Arama",
+        "included": true
+      },
+      {
+        "name": "Seçili Markalar, Ürünler, Kategori, Vs. % X İndirim",
         "included": true
       },
       {
@@ -41,107 +125,51 @@
         "included": true
       },
       {
-        "name": "SSL Güvenlik Sertifikası",
+        "name": "İleri Düzey Güvenlik & Kalite İncele ",
         "included": true
       },
       {
-        "name": "Mobil E-ticaret Sitesi",
+        "name": "Mobil Uyumlu Yönetim Paneli",
         "included": true
       },
       {
-        "name": "Responsive Tasarım",
+        "name": "Sepet Listesi Oluşturma (Arkadaşım Ödesin)",
         "included": true
       },
       {
-        "name": "Tema Seçenekleri",
-        "included": true
-      },
-      {
-        "name": "Dijital Pazarlama Eklentileri",
-        "included": true
-      },
-      {
-        "name": "Canlı Destek Modülü",
-        "included": true
-      },
-      {
-        "name": "Hızlı Üyelik / Giriş Ekranı",
-        "included": true
-      },
-      {
-        "name": "Üyeliksiz Alışveriş",
-        "included": true
-      },
-      {
-        "name": "Vitrin / Banner Yönetimi (Mobil / Tablet / Masaüstü)",
-        "included": true
-      },
-      {
-        "name": "Mobil Hareket Teknolojisi (Davranış Algılama)",
-        "included": true
-      },
-      {
-        "name": "Sipariş Düzenleme (Fiyat / Ürün / Vergi / Adres)",
-        "included": true
-      },
-      {
-        "name": "Siparişlere Yönetici Notu Girebilme (Müşteri Görebilir)",
-        "included": true
-      },
-      {
-        "name": "Kargo Yönetimi",
-        "included": true
-      },
-      {
-        "name": "Parapuan / Hediye Çeki",
-        "included": true
-      },
-      {
-        "name": "Ürün Liste / Detay Ayarları / Ürün Görseli Tuval Özelliği",
-        "included": true
-      },
-      {
-        "name": "Blog / İçerik Yönetimi",
-        "included": true
-      },
-      {
-        "name": "Varyant (Ek Seçenek) Yönetimi",
-        "included": true
-      },
-      {
-        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
-        "included": true
-      },
-      {
-        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
-        "included": true
-      },
-      {
-        "name": "Ürün Yorum Yönetimi (Onaylı/Onaysız)",
-        "included": true
-      },
-      {
-        "name": "Ürün Puanlama Modülü",
-        "included": true
-      },
-      {
-        "name": "Stoksuz Satış Yapabilme",
-        "included": true
-      },
-      {
-        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
-        "included": true
-      },
-      {
-        "name": "B2C Satış Modeli",
-        "included": true
-      },
-      {
-        "name": "Akıllı Ürün Arama / Filtreleme",
+        "name": "Kullanıcı / Personel Yetkilendirme",
         "included": false
       },
       {
-        "name": "Ürün Bağlantıları",
+        "name": "Ürün Kopyalama / Hızlı Ürün Girme",
+        "included": false
+      },
+      {
+        "name": "Ürün Sıralama(Sürükle Bırak)",
+        "included": false
+      },
+      {
+        "name": "Sipariş / İade Yeni Durumu Oluşturma",
+        "included": false
+      },
+      {
+        "name": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
+        "included": false
+      },
+      {
+        "name": "Ürün Detayında Diğer Ürün Renklerini Gösterme",
+        "included": false
+      },
+      {
+        "name": "İlgili / Çapraz / Tamamlayıcı / Kasa Önü Fırsatı Ürün Ayarı",
+        "included": false
+      },
+      {
+        "name": "Sipariş Notları (Müşteri Görebilir / Göremez)",
+        "included": false
+      },
+      {
+        "name": "Ürün Filtreleme",
         "included": false
       },
       {
@@ -153,7 +181,7 @@
         "included": false
       },
       {
-        "name": "Müşteri Destek Modülü",
+        "name": "Stoksuz Satış Yapabilme",
         "included": false
       },
       {
@@ -161,59 +189,23 @@
         "included": false
       },
       {
-        "name": "Kargo Entegrasyonu",
+        "name": "Fatura Yazdırma / Tasarlama",
         "included": false
       },
       {
-        "name": "E-Arşiv/E-Fatura",
+        "name": "Excel ile Ürün Yükleme / Güncelleme",
         "included": false
       },
       {
-        "name": "Fatura Yazdırma/Tasarlama",
+        "name": "Stok Hareketi Tutma(Giriş/Çıkış)",
         "included": false
       },
       {
-        "name": "XML Entegrasyonu",
+        "name": "Kargo Durum Otomasyonu",
         "included": false
       },
       {
-        "name": "Sipariş Paket Doğrulama(Barkod)",
-        "included": false
-      },
-      {
-        "name": "Canlı Moda/Ürün Video Modülü",
-        "included": false
-      },
-      {
-        "name": "Muhasebe Entegrasyonu",
-        "included": false
-      },
-      {
-        "name": "Excel ile Ürün Yükleme/Güncelleme",
-        "included": false
-      },
-      {
-        "name": "Üyeleri Excel’e Aktarma",
-        "included": false
-      },
-      {
-        "name": "Toplu Resim Yükleme",
-        "included": false
-      },
-      {
-        "name": "Sipariş Raporları",
-        "included": false
-      },
-      {
-        "name": "Gelince Haber Ver (Varyant Uyumlu)",
-        "included": false
-      },
-      {
-        "name": "Kombin/Seri Ürün Satış Modülü",
-        "included": false
-      },
-      {
-        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "name": "E-Arşiv / E-Fatura Durum Otomasyonu",
         "included": false
       },
       {
@@ -221,15 +213,103 @@
         "included": false
       },
       {
-        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "name": "Toplu Ürün/Kategori Güncelleme",
+        "included": false
+      },
+      {
+        "name": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
+        "included": false
+      },
+      {
+        "name": "E-Mail Ayarları / Gönderim Kuyruğu İzleme",
+        "included": false
+      },
+      {
+        "name": "Sosyal Medya Hesabı ile Üyelik / Giriş",
+        "included": false
+      },
+      {
+        "name": "Kargo Nerede Takip Modülü",
+        "included": false
+      },
+      {
+        "name": "B2B (Bayi Satış)",
+        "included": false
+      },
+      {
+        "name": "Etiket Yönetimi",
+        "included": false
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
+        "included": false
+      },
+      {
+        "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
+        "included": false
+      },
+      {
+        "name": "Stoksuz Satış Yapabilme",
+        "included": false
+      },
+      {
+        "name": "1 Adet Kargo Entegrasyonu",
+        "included": false
+      },
+      {
+        "name": "E-Arşiv/E-Fatura",
+        "included": false
+      },
+      {
+        "name": "Sipariş Raporları",
+        "included": false
+      },
+      {
+        "name": "Kombin / Seri Ürün Satış Modülü",
+        "included": false
+      },
+      {
+        "name": "Pazaryeri Sipariş Durum Otomasyonu",
+        "included": false
+      },
+      {
+        "name": "Pazaryeri Kargo Durum Otomasyonu",
+        "included": false
+      },
+      {
+        "name": "Pazaryeri E-fatura Durum Otomasyonu",
+        "included": false
+      },
+      {
+        "name": "Kredi Kartı Siparişi Otomatik İptal Otomasyonu - Ödemesi alınmayan siparişleri Otomatik İptal Eder",
+        "included": false
+      },
+      {
+        "name": "Panelden Sipariş Oluşturma",
+        "included": false
+      },
+      {
+        "name": "Son Gezilenler/Benzer Ürün Ayarları",
+        "included": false
+      },
+      {
+        "name": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
+        "included": false
+      },
+      {
+        "name": "Varyantı Fiyat Girebilme/Fiyat Gizleme",
+        "included": false
+      },
+      {
+        "name": "Mesaj Şablonları (Sms)",
+        "included": false
+      },
+      {
+        "name": "Müşteri Destek Modülü",
         "included": false
       },
       {
         "name": "Kullanıcı / Personel Yetkilendirme",
-        "included": false
-      },
-      {
-        "name": "URL Kayıtlatını Yönetme",
         "included": false
       },
       {
@@ -257,21 +337,138 @@
         "included": false
       },
       {
-        "name": "Toplu İşlem Yönetebilme",
+        "name": "Toplu Otomatik SEO/Meta Bilgi Güncelleme",
         "included": false
       },
       {
-        "name": "Ürün Kopyalama/Hızlı Ürün Girme",
+        "name": "Zamanlanmış Görevler(Otomasyon Oluşturma)",
         "included": false
       },
       {
-        "name": "Ürün Sıralama (Sürükle Bırak)",
+        "name": "Ürün XML / Excel Çıktısı Alma (Anlık)",
+        "included": false
+      },
+      {
+        "name": "Sipariş XML / Excel Çıktısı Alma (Anlık)",
+        "included": false
+      },
+      {
+        "name": "301 / 302 / 410 Paneli / URL Kayıtlarını Yönetme",
+        "included": false
+      },
+      {
+        "name": "Kara Liste",
+        "included": false
+      },
+      {
+        "name": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
+        "included": false
+      },
+      {
+        "name": "Link ile Ödeme Al",
+        "included": false
+      },
+      {
+        "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
+        "included": false
+      },
+      {
+        "name": "Kara Liste",
+        "included": false
+      },
+      {
+        "name": "İndirimli / Fırsat / Vitrin / Öne Çıkanlar Ürün Ayarları",
+        "included": false
+      },
+      {
+        "name": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
+        "included": false
+      },
+      {
+        "name": "Özel Ürün Satışı (Görsel/Bilgi/Dosya) Yükleme",
+        "included": false
+      },
+      {
+        "name": "Yarım Kalan Sipariş İzleme",
+        "included": false
+      },
+       {
+        "name": "Misafir / Müşteri Sepetini Görüntüleme",
+        "included": false
+      },
+       {
+        "name": "Sayfa/Landing/Anket/Başvuru Sayfaları",
+        "included": false
+      },
+       {
+        "name": "Üye Excel Çıktısı Alma",
+        "included": false
+      },
+       {
+        "name": "Sistem Log",
+        "included": false
+      },
+       {
+        "name": "Kullanıcı Etkinlikler (Hareket Log)",
+        "included": false
+      },
+       {
+        "name": "Aktif Kullanıcılar Takip Etme",
+        "included": false
+      },
+       {
+        "name": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
+        "included": false
+      },
+       {
+        "name": "Kullanıcı Grubu / Bayilik Ayarları",
+        "included": false
+      },
+       {
+        "name": "Canlı Destek Modülü",
+        "included": false
+      },
+       {
+        "name": "Akıllı Filtreleme (Stok Durmuna Göre)",
+        "included": false
+      },
+      {
+        "name": "1 Adet XML Entegrasyonu (İçe Aktarım)",
+        "included": false
+      },
+      {
+        "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
+        "included": false
+      },
+      {
+        "name": "Katmanlı Fiyat Tanımlayabilme",
+        "included": false
+      },
+      {
+        "name": "Kart Saklama Özelliği",
         "included": false
       },
       {
         "name": "Ürün Arama Terimleri",
         "included": false
+      },
+      {
+        "name": "Bölgesel Kargo Yönetimi Şehir / İlçe / Kullanıcı)",
+        "included": false
+      },
+      {
+        "name": "Toplu SMS/Mail Gönderimi(Aracı/Otomasyon)",
+        "included": false
+      },
+      {
+        "name": "Gelince Haber Ver (Varyant Uyumlu)",
+        "included": false
+      },
+      {
+        "name": "CDN Content Delivery Network",
+        "included": false
       }
+      
     ],
     "dropdowns": [
       {
