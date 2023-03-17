@@ -3412,135 +3412,139 @@
       },
       {
         "name": "Kullanıcı / Personel Yetkilendirme",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Kopyalama / Hızlı Ürün Girme",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Sıralama(Sürükle Bırak)",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş / İade Yeni Durumu Oluşturma",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Detayında Diğer Ürün Renklerini Gösterme",
-        "included": false
+        "included": true
       },
       {
         "name": "İlgili / Çapraz / Tamamlayıcı / Kasa Önü Fırsatı Ürün Ayarı",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş Notları (Müşteri Görebilir / Göremez)",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Filtreleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Miktarın Altında Yöneticiye Bildir",
-        "included": false
+        "included": true
       },
       {
         "name": "Whatsapp Sipariş Modülü",
-        "included": false
+        "included": true
       },
       {
         "name": "Stoksuz Satış Yapabilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Stok Harekelerini Kaydetme",
-        "included": false
+        "included": true
       },
       {
         "name": "Fatura Yazdırma / Tasarlama",
-        "included": false
+        "included": true
       },
       {
         "name": "Excel ile Ürün Yükleme / Güncelleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Stok Hareketi Tutma(Giriş/Çıkış)",
-        "included": false
+        "included": true
       },
       {
         "name": "Kargo Durum Otomasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "E-Arşiv / E-Fatura Durum Otomasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "Duyuru/Bildirim Modülü",
-        "included": false
+        "included": true
       },
       {
         "name": "Toplu Ürün/Kategori Güncelleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Toplu Ürün Görseli Yükleme(Barkod/Stok/ID)",
-        "included": false
+        "included": true
       },
       {
         "name": "E-Mail Ayarları / Gönderim Kuyruğu İzleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Sosyal Medya Hesabı ile Üyelik / Giriş",
-        "included": false
+        "included": true
       },
       {
         "name": "Kargo Nerede Takip Modülü",
-        "included": false
+        "included": true
       },
       {
         "name": "B2B (Bayi Satış)",
-        "included": false
+        "included": true
       },
       {
         "name": "Etiket Yönetimi",
-        "included": false
+        "included": true
       },
       {
         "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Stoksuz Satış Yapabilme",
-        "included": false
+        "included": true
       },
       {
         "name": "1 Adet Kargo Entegrasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "E-Arşiv/E-Fatura",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş Raporları",
-        "included": false
+        "included": true
       },
       {
         "name": "Kombin / Seri Ürün Satış Modülü",
-        "included": false
+        "included": true
+      },
+      {
+        "name": "Toplu İşlem Yönetebilme",
+        "included": true
       },
       {
         "name": "Pazaryeri Sipariş Durum Otomasyonu",
@@ -3612,7 +3616,7 @@
       },
       {
         "name": "Toplu Otomatik SEO/Meta Bilgi Güncelleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Zamanlanmış Görevler(Otomasyon Oluşturma)",
@@ -3943,71 +3947,71 @@
         "options": [
           {
             "alt": "Aras Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Sürat",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "PTT Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "MNG Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Yurtiçi Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "UPS",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "ByExpress Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Asil Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Hepsijet Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Kargoist",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Aksay Dağıtım",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Carrtell Dağıtım",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Faal Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "kargola KArgo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Kargo Nova",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "My Ses Expres",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Ofis Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Aramex",
@@ -4156,7 +4160,7 @@
           },
           {
             "alt": "Alternatif Ödeme Sistemleri",
-            "included": "X"
+            "included": " ✔"
           },
            {
             "alt": "Mollie Sanal Pos Entegrasyonu",
@@ -4237,7 +4241,7 @@
         "options": [
           {
             "alt": "NetKasam",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Nebim V3",
@@ -4428,7 +4432,7 @@
           },
           {
             "alt": "Facebook / Instagram / Whatsapp (Katalog / Pixel / Shop)",
-            "included": "Opsiyonel"
+            "included": " ✔"
           },
           {
             "alt": "Yandex Metrica Entegrasyonu",
@@ -4484,7 +4488,7 @@
           },
           {
             "alt": "Visilabs Entegrasyonu",
-            "included": " ✔"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Segmentify Entegrasyonu",
