@@ -1774,63 +1774,63 @@
       },
       {
         "name": "Kullanıcı / Personel Yetkilendirme",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Kopyalama / Hızlı Ürün Girme",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Sıralama(Sürükle Bırak)",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş / İade Yeni Durumu Oluşturma",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Liste/Detay Ayarları/Ürün Görseli Tuval Özelliği",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Detayında Diğer Ürün Renklerini Gösterme",
-        "included": false
+        "included": true
       },
       {
         "name": "İlgili / Çapraz / Tamamlayıcı / Kasa Önü Fırsatı Ürün Ayarı",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş Notları (Müşteri Görebilir / Göremez)",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Filtreleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Miktarın Altında Yöneticiye Bildir",
-        "included": false
+        "included": true
       },
       {
         "name": "Whatsapp Sipariş Modülü",
-        "included": false
+        "included": true
       },
       {
         "name": "Stoksuz Satış Yapabilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Stok Harekelerini Kaydetme",
-        "included": false
+        "included": true
       },
       {
         "name": "Fatura Yazdırma / Tasarlama",
-        "included": false
+        "included": true
       },
       {
         "name": "Excel ile Ürün Yükleme / Güncelleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Stok Hareketi Tutma(Giriş/Çıkış)",
@@ -2599,7 +2599,7 @@
         "options": [
           {
             "alt": "NetKasam",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Nebim V3",
@@ -2790,7 +2790,7 @@
           },
           {
             "alt": "Facebook / Instagram / Whatsapp (Katalog / Pixel / Shop)",
-            "included": "Opsiyonel"
+            "included": " ✔"
           },
           {
             "alt": "Yandex Metrica Entegrasyonu",
@@ -2846,7 +2846,7 @@
           },
           {
             "alt": "Visilabs Entegrasyonu",
-            "included": " ✔"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Segmentify Entegrasyonu",
