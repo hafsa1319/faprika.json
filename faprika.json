@@ -6788,227 +6788,227 @@
       },
       {
         "name": "B2B (Bayi Satış)",
-        "included": false
+        "included": true
       },
       {
         "name": "Etiket Yönetimi",
-        "included": false
+        "included": true
       },
       {
         "name": "Varyant Kombinasyonlarına Farklı Fiyat Girebilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Varyant Kombinasyonlarına Farklı Teslimat Tarihi Girebilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Stoksuz Satış Yapabilme",
-        "included": false
+        "included": true
       },
       {
         "name": "1 Adet Kargo Entegrasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "E-Arşiv/E-Fatura",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş Raporları",
-        "included": false
+        "included": true
       },
       {
         "name": "Kombin / Seri Ürün Satış Modülü",
-        "included": false
+        "included": true
       },
       {
         "name": "Pazaryeri Sipariş Durum Otomasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "Pazaryeri Kargo Durum Otomasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "Pazaryeri E-fatura Durum Otomasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "Kredi Kartı Siparişi Otomatik İptal Otomasyonu - Ödemesi alınmayan siparişleri Otomatik İptal Eder",
-        "included": false
+        "included": true
       },
       {
         "name": "Panelden Sipariş Oluşturma",
-        "included": false
+        "included": true
       },
       {
         "name": "Son Gezilenler/Benzer Ürün Ayarları",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş/Kargo/Kullanıcı/Ödeme Sistemi Kısıtlama",
-        "included": false
+        "included": true
       },
       {
         "name": "Varyantı Fiyat Girebilme/Fiyat Gizleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Mesaj Şablonları (Sms)",
-        "included": false
+        "included": true
       },
       {
         "name": "Müşteri Destek Modülü",
-        "included": false
+        "included": true
       },
       {
         "name": "Kullanıcı / Personel Yetkilendirme",
-        "included": false
+        "included": true
       },
       {
         "name": "Instashop / Facebook Store",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürünü Favori / Karşılaştırma / Fiyat Takip Listesine Ekle",
-        "included": false
+        "included": true
       },
       {
         "name": "Kart Saklama Özelliği",
-        "included": false
+        "included": true
       },
       {
         "name": "Kapıda Ödeme Sipariş Onaylama",
-        "included": false
+        "included": true
       },
       {
         "name": "SMS Entegrasyonu",
-        "included": false
+        "included": true
       },
       {
         "name": "CSS/Script Yönetim Ekranı",
-        "included": false
+        "included": true
       },
       {
         "name": "Toplu Otomatik SEO/Meta Bilgi Güncelleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Zamanlanmış Görevler(Otomasyon Oluşturma)",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün XML / Excel Çıktısı Alma (Anlık)",
-        "included": false
+        "included": true
       },
       {
         "name": "Sipariş XML / Excel Çıktısı Alma (Anlık)",
-        "included": false
+        "included": true
       },
       {
         "name": "301 / 302 / 410 Paneli / URL Kayıtlarını Yönetme",
-        "included": false
+        "included": true
       },
       {
         "name": "Kara Liste",
-        "included": false
+        "included": true
       },
       {
         "name": "Kredi Kartı İade İşlemlerini Panelden Sağlama",
-        "included": false
+        "included": true
       },
       {
         "name": "Link ile Ödeme Al",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Listelemede Diğer Ürün Resimleri Gösterme",
-        "included": false
+        "included": true
       },
       {
         "name": "Kara Liste",
-        "included": false
+        "included": true
       },
       {
         "name": "İndirimli / Fırsat / Vitrin / Öne Çıkanlar Ürün Ayarları",
-        "included": false
+        "included": true
       },
       {
         "name": "Ana Kategori/Birden Fazla Kategoride Ürün Gösterme",
-        "included": false
+        "included": true
       },
       {
         "name": "Özel Ürün Satışı (Görsel/Bilgi/Dosya) Yükleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Yarım Kalan Sipariş İzleme",
-        "included": false
+        "included": true
       },
        {
         "name": "Misafir / Müşteri Sepetini Görüntüleme",
-        "included": false
+        "included": true
       },
        {
         "name": "Sayfa/Landing/Anket/Başvuru Sayfaları",
-        "included": false
+        "included": true
       },
        {
         "name": "Üye Excel Çıktısı Alma",
-        "included": false
+        "included": true
       },
        {
         "name": "Sistem Log",
-        "included": false
+        "included": true
       },
        {
         "name": "Kullanıcı Etkinlikler (Hareket Log)",
-        "included": false
+        "included": true
       },
        {
         "name": "Aktif Kullanıcılar Takip Etme",
-        "included": false
+        "included": true
       },
        {
         "name": "Sınırsız Katalog Oluşturma(Anlık/Filtreli)",
-        "included": false
+        "included": true
       },
        {
         "name": "Kullanıcı Grubu / Bayilik Ayarları",
-        "included": false
+        "included": true
       },
        {
         "name": "Canlı Destek Modülü",
-        "included": false
+        "included": true
       },
        {
         "name": "Akıllı Filtreleme (Stok Durmuna Göre)",
-        "included": false
+        "included": true
       },
       {
         "name": "1 Adet XML Entegrasyonu (İçe Aktarım)",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürünlere Min. Ve Max. Alımlarda Miktar Belirleme",
-        "included": false
+        "included": true
       },
       {
         "name": "Katmanlı Fiyat Tanımlayabilme",
-        "included": false
+        "included": true
       },
       {
         "name": "Kart Saklama Özelliği",
-        "included": false
+        "included": true
       },
       {
         "name": "Ürün Arama Terimleri",
-        "included": false
+        "included": true
       },
       {
         "name": "Bölgesel Kargo Yönetimi Şehir / İlçe / Kullanıcı)",
-        "included": false
+        "included": true
       },
       {
         "name": "Toplu SMS/Mail Gönderimi(Aracı/Otomasyon)",
@@ -7030,191 +7030,191 @@
         "options": [
           {
             "alt": "Trendyol",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "N11",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Modanisa",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Morhipo",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Hepsiburada",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Flo",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Pazarama",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Gittigidiyor",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "ePttAVM",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Akakçe",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Cimri",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "N11 Pro",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Gittigidiyor Cadde",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Amazon",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Farmazon",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Tozlu",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Sefamerve",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Sahibinden",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Çiçeksepeti",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Glami",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Evidea",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Lamoda",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Joom",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Alegro",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "AliExpress",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Zalando",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Asos",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Wayfair",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Fruugo",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Zibbet",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Reverb",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Newegg",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "ETSY Entegrasyonu",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Ebay",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Wildberries",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Yollando",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Alibaba",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Knawat",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Fruugo",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Ozon",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Ozsale",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Rozetka",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Ceneo",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Rakuten",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Tiu",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "UNIQLO",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Kanui",
-            "included": "X"
+            "included": "Opsiyonel"
           }
         ]
       },
@@ -7223,71 +7223,71 @@
         "options": [
           {
             "alt": "Aras Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Sürat",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "PTT Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "MNG Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Yurtiçi Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "UPS",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "ByExpress Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Asil Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Hepsijet Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Kargoist",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Aksay Dağıtım",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Carrtell Dağıtım",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Faal Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "kargola KArgo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Kargo Nova",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "My Ses Expres",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Ofis Kargo",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Aramex",
@@ -7436,7 +7436,7 @@
           },
           {
             "alt": "Alternatif Ödeme Sistemleri",
-            "included": "X"
+            "included": " ✔"
           },
            {
             "alt": "Mollie Sanal Pos Entegrasyonu",
@@ -7517,107 +7517,107 @@
         "options": [
           {
             "alt": "NetKasam",
-            "included": "X"
+            "included": "✔"
           },
           {
             "alt": "Nebim V3",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Netsis",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Mikro",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Logo",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Paraşüt",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "SAP",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Microsoft Dynamics",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "OBASE Entegrasyonu",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Oracle",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Korgün",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Akınsoft",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Giz",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Vega",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Zirve",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Datasoft",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Orka",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "ETA",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Luca",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Dia",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Erp 12",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Femsoft",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "NETO",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Hitit",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Sentez",
-            "included": "X"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Winka",
-            "included": "X"
+            "included": "Opsiyonel"
           }
         ]
       },
@@ -7708,7 +7708,7 @@
           },
           {
             "alt": "Facebook / Instagram / Whatsapp (Katalog / Pixel / Shop)",
-            "included": "Opsiyonel"
+            "included": " ✔"
           },
           {
             "alt": "Yandex Metrica Entegrasyonu",
@@ -7764,7 +7764,7 @@
           },
           {
             "alt": "Visilabs Entegrasyonu",
-            "included": " ✔"
+            "included": "Opsiyonel"
           },
           {
             "alt": "Segmentify Entegrasyonu",
