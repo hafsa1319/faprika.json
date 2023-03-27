@@ -6,8 +6,8 @@
     "features": [
       
       {
-        "name": "Trafik / Bandwidth /  2000 GB / YIL",
-        "included": true
+        "name": "Trafik / Bandwidth / GB",
+        "included": "2000/GB/YIL"
       },
       {
         "name": "Sınırsız Web / Database / Hosting",
@@ -1674,8 +1674,8 @@
     "features": [
       
       {
-        "name": "Trafik / Bandwidth /  3000 GB / YIL",
-        "included": true
+        "name": "Trafik / Bandwidth / GB",
+        "included": "3000/GB/YIL"
       },
       {
         "name": "Sınırsız Web / Database / Hosting",
@@ -3340,8 +3340,8 @@
     },
     "features": [
       {
-        "name": "Trafik / Bandwidth /  4000 GB / YIL",
-        "included": true
+        "name": "Trafik / Bandwidth /GB",
+        "included": "4000/GB/YIL"
       },
       {
         "name": "Sınırsız Web / Database / Hosting",
@@ -5010,8 +5010,8 @@
     },
     "features": [
       {
-        "name": "Trafik / Bandwidth /  5000 GB / YIL",
-        "included": true
+        "name": "Trafik / Bandwidth /GB",
+        "included": "5000/GB/YIL"
       },
       {
         "name": "Sınırsız Web / Database / Hosting",
@@ -6676,8 +6676,8 @@
     },
     "features": [
       {
-        "name": "Trafik / Bandwidth /  6000 GB / YIL",
-        "included": true
+        "name": "Trafik / Bandwidth /GB",
+        "included": "6000/GB/YIL"
       },
       {
         "name": "Sınırsız Web / Database / Hosting",
