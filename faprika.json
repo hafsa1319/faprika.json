@@ -3701,7 +3701,7 @@
       },
       {
         "name": "Toplu Otomatik SEO/Meta Bilgi Güncelleme",
-        "included": true
+        "included": false
       },
       {
         "name": "Zamanlanmış Görevler(Otomasyon Oluşturma)",
